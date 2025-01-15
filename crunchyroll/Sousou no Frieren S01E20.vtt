@@ -1,0 +1,2208 @@
+WEBVTT
+
+STYLE
+::cue(Default) {
+color: #ffffffff;
+font-family: "Arial", sans-serif;
+font-size: 020px;
+text-shadow: #000000ff -2px 0px 2px, #000000ff 0px 2px 2px, #000000ff 0px -2px 2px, #000000ff 2px 0px 2px;
+background-color: #00000000;
+}
+
+c0000000
+00:00:01.500 --> 00:00:04.170 line:90% align:center
+<Default><b>[thudding]</b></Default>
+
+c0000001
+00:00:05.090 --> 00:00:06.340 line:90% align:center
+<Default><b>[thudding]</b></Default>
+
+c0000002
+00:00:07.220 --> 00:00:09.430 line:90% align:center
+<Default><b>[chuckles]</b></Default>
+
+c0000003
+00:00:09.680 --> 00:00:12.300 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000004
+00:00:12.430 --> 00:00:13.770 line:90% align:center
+<Default><b>-[thuds]
+-[slashing]</b></Default>
+
+c0000005
+00:00:15.850 --> 00:00:16.850 line:90% align:center
+<Default><b>[thuds]</b></Default>
+
+c0000006
+00:00:17.690 --> 00:00:19.440 line:90% align:center
+<Default><b>[WIRBEL]
+Aren't you scary?</b></Default>
+
+c0000007
+00:00:19.900 --> 00:00:22.730 line:90% align:center
+<Default><b>A spell that slashes
+through physical objects.</b></Default>
+
+c0000008
+00:00:22.820 --> 00:00:24.150 line:90% align:center
+<Default><b>[thudding]</b></Default>
+
+c0000009
+00:00:24.230 --> 00:00:26.400 line:90% align:center
+<Default><b>[WIRBEL] It's nothing
+impressive or complex.</b></Default>
+
+c0000010
+00:00:26.900 --> 00:00:28.950 line:90% align:center
+<Default><b>But I can't see its trajectory.</b></Default>
+
+c0000011
+00:00:29.110 --> 00:00:30.200 line:90% align:center
+<Default><b>-[slashes]
+-[blood splatters]</b></Default>
+
+c0000012
+00:00:32.200 --> 00:00:34.080 line:90% align:center
+<Default><b>Well, you can't block
+them all, can you?</b></Default>
+
+c0000013
+00:00:34.790 --> 00:00:35.870 line:90% align:center
+<Default><b>What's this?</b></Default>
+
+c0000014
+00:00:36.750 --> 00:00:39.210 line:90% align:center
+<Default><b>I'm ready!
+Put me out of my misery.</b></Default>
+
+c0000015
+00:00:39.870 --> 00:00:42.040 line:90% align:center
+<Default><b>I might've gone
+on a bit of a rampage.</b></Default>
+
+c0000016
+00:00:43.130 --> 00:00:44.130 line:90% align:center
+<Default><b>[WIRBEL]
+You think?</b></Default>
+
+c0000017
+00:00:44.960 --> 00:00:46.300 line:90% align:center
+<Default><b>The range of that spell
+you're using</b></Default>
+
+c0000018
+00:00:46.380 --> 00:00:47.840 line:90% align:center
+<Default><b>is about five meters, yes?</b></Default>
+
+c0000019
+00:00:48.510 --> 00:00:49.680 line:90% align:center
+<Default><b>Aren't you sharp.</b></Default>
+
+c0000020
+00:00:49.880 --> 00:00:51.470 line:90% align:center
+<Default><b>So? What happens now?</b></Default>
+
+c0000021
+00:00:51.970 --> 00:00:54.180 line:90% align:center
+<Default><b>Death by a thousand cuts
+for me, or you?</b></Default>
+
+c0000022
+00:00:55.180 --> 00:00:56.100 line:90% align:center
+<Default><b>Nah.</b></Default>
+
+c0000023
+00:00:56.220 --> 00:00:57.730 line:90% align:center
+<Default><b>I've got a better idea.</b></Default>
+
+c0000024
+00:00:58.350 --> 00:01:00.980 line:90% align:center
+<Default><b>[EHRE] His magic
+is utterly devoid of character,</b></Default>
+
+c0000025
+00:01:01.190 --> 00:01:03.440 line:90% align:center
+<Default><b>designed to win at all costs.</b></Default>
+
+c0000026
+00:01:03.940 --> 00:01:06.150 line:90% align:center
+<Default><b>I pity the girl who's up
+against him now.</b></Default>
+
+c0000027
+00:01:06.570 --> 00:01:07.900 line:90% align:center
+<Default><b>She'll surely be killed.</b></Default>
+
+c0000028
+00:01:08.360 --> 00:01:10.320 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000029
+00:01:10.490 --> 00:01:11.490 line:90% align:center
+<Default><b>Right.</b></Default>
+
+c0000030
+00:01:11.610 --> 00:01:13.990 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000031
+00:01:14.120 --> 00:01:16.370 line:90% align:center
+<Default><b>[crackling]</b></Default>
+
+c0000032
+00:01:16.490 --> 00:01:18.040 line:90% align:center
+<Default><b>[EHRE]
+A saturation attack?</b></Default>
+
+c0000033
+00:01:20.210 --> 00:01:21.210 line:90% align:center
+<Default><b>[gasps]</b></Default>
+
+c0000034
+00:01:21.750 --> 00:01:24.630 line:90% align:center
+<Default><b>How can she control so many
+offensive spells at once?</b></Default>
+
+c0000035
+00:01:24.750 --> 00:01:27.300 line:90% align:center
+<Default><b>[crackling]</b></Default>
+
+c0000036
+00:01:27.420 --> 00:01:29.010 line:90% align:center
+<Default><b>Where is your dignity, mage?</b></Default>
+
+c0000037
+00:01:29.130 --> 00:01:32.300 line:90% align:center
+<Default><b>Resorting to brute force like
+this is downright barbaric!</b></Default>
+
+c0000038
+00:01:34.390 --> 00:01:35.390 line:90% align:center
+<Default><b>I can't...</b></Default>
+
+c0000039
+00:01:36.140 --> 00:01:37.600 line:90% align:center
+<Default><b>can't handle them all!</b></Default>
+
+c0000040
+00:01:38.890 --> 00:01:41.890 line:90% align:center
+<Default><b>[explosion]</b></Default>
+
+c0000041
+00:03:18.570 --> 00:03:19.830 line:90% align:center
+<Default><b>Sorganeil.</b></Default>
+
+c0000042
+00:03:20.080 --> 00:03:23.580 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000043
+00:03:24.330 --> 00:03:25.960 line:90% align:center
+<Default><b>-Hm.
+-[clattering]</b></Default>
+
+c0000044
+00:03:26.170 --> 00:03:29.750 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000045
+00:03:29.840 --> 00:03:31.630 line:90% align:center
+<Default><b>I can hardly move at all.</b></Default>
+
+c0000046
+00:03:32.500 --> 00:03:34.670 line:90% align:center
+<Default><b>[UBEL] And I can't control
+my mana, either.</b></Default>
+
+c0000047
+00:03:35.550 --> 00:03:37.220 line:90% align:center
+<Default><b>It's a powerful binding spell.</b></Default>
+
+c0000048
+00:03:37.930 --> 00:03:39.300 line:90% align:center
+<Default><b>If he has this up his sleeve,</b></Default>
+
+c0000049
+00:03:39.390 --> 00:03:41.930 line:90% align:center
+<Default><b>why didn't he use it
+to catch a Stille himself?</b></Default>
+
+c0000050
+00:03:43.350 --> 00:03:45.230 line:90% align:center
+<Default><b>I guess restraining one
+is only helpful</b></Default>
+
+c0000051
+00:03:45.310 --> 00:03:46.890 line:90% align:center
+<Default><b>if you can find one first.</b></Default>
+
+c0000052
+00:03:47.810 --> 00:03:49.060 line:90% align:center
+<Default><b>If I can see you,</b></Default>
+
+c0000053
+00:03:49.190 --> 00:03:50.940 line:90% align:center
+<Default><b>my binding spell
+can tie you down</b></Default>
+
+c0000054
+00:03:51.020 --> 00:03:52.230 line:90% align:center
+<Default><b>right where I want you.</b></Default>
+
+c0000055
+00:03:52.730 --> 00:03:55.240 line:90% align:center
+<Default><b>As long as I never let
+my eyes wander away,</b></Default>
+
+c0000056
+00:03:55.440 --> 00:03:56.900 line:90% align:center
+<Default><b>you are my prisoner.</b></Default>
+
+c0000057
+00:03:57.490 --> 00:03:59.610 line:90% align:center
+<Default><b>And a prisoner
+in the perfect position</b></Default>
+
+c0000058
+00:03:59.700 --> 00:04:01.320 line:90% align:center
+<Default><b>for execution,
+by the looks of it.</b></Default>
+
+c0000059
+00:04:01.490 --> 00:04:02.950 line:90% align:center
+<Default><b>[UBEL]
+Yet he hasn't killed me.</b></Default>
+
+c0000060
+00:04:03.370 --> 00:04:04.790 line:90% align:center
+<Default><b>And he didn't kill me then.</b></Default>
+
+c0000061
+00:04:05.580 --> 00:04:08.250 line:90% align:center
+<Default><b>If he'd truly intended
+to take me out,</b></Default>
+
+c0000062
+00:04:08.580 --> 00:04:11.210 line:90% align:center
+<Default><b>he would've bound me
+during his initial ambush.</b></Default>
+
+c0000063
+00:04:12.170 --> 00:04:13.710 line:90% align:center
+<Default><b>This is your final chance.</b></Default>
+
+c0000064
+00:04:16.130 --> 00:04:18.300 line:90% align:center
+<Default><b>Leave the Stille
+on the ground and get lost.</b></Default>
+
+c0000065
+00:04:19.430 --> 00:04:20.430 line:90% align:center
+<Default><b>[UBEL]
+Too bad.</b></Default>
+
+c0000066
+00:04:20.590 --> 00:04:21.680 line:90% align:center
+<Default><b>He's no fun.</b></Default>
+
+c0000067
+00:04:21.760 --> 00:04:24.600 line:90% align:center
+<Default><b>And here I thought I'd finally
+found a fight to the death.</b></Default>
+
+c0000068
+00:04:25.020 --> 00:04:26.480 line:90% align:center
+<Default><b>He was always going
+to threaten me</b></Default>
+
+c0000069
+00:04:26.560 --> 00:04:28.230 line:90% align:center
+<Default><b>into handing over our prize.</b></Default>
+
+c0000070
+00:04:29.440 --> 00:04:30.440 line:90% align:center
+<Default><b>Hm?</b></Default>
+
+c0000071
+00:04:30.520 --> 00:04:31.480 line:90% align:center
+<Default><b>Hold on.</b></Default>
+
+c0000072
+00:04:31.770 --> 00:04:33.360 line:90% align:center
+<Default><b>I don't understand
+why you ordered me</b></Default>
+
+c0000073
+00:04:33.440 --> 00:04:34.770 line:90% align:center
+<Default><b>to put down our birdy.</b></Default>
+
+c0000074
+00:04:35.230 --> 00:04:37.240 line:90% align:center
+<Default><b>It would've made more sense
+for you to take it from me</b></Default>
+
+c0000075
+00:04:37.320 --> 00:04:38.490 line:90% align:center
+<Default><b>while I was tied up.</b></Default>
+
+c0000076
+00:04:38.650 --> 00:04:40.530 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000077
+00:04:40.610 --> 00:04:41.620 line:90% align:center
+<Default><b>[clatters]</b></Default>
+
+c0000078
+00:04:43.740 --> 00:04:46.250 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000079
+00:04:50.290 --> 00:04:51.290 line:90% align:center
+<Default><b>[slashing]</b></Default>
+
+c0000080
+00:04:51.630 --> 00:04:52.920 line:90% align:center
+<Default><b>[gasps]</b></Default>
+
+c0000081
+00:04:56.840 --> 00:04:58.050 line:90% align:center
+<Default><b>[chirping]</b></Default>
+
+c0000082
+00:04:59.050 --> 00:05:00.130 line:90% align:center
+<Default><b>So, to keep me bound,</b></Default>
+
+c0000083
+00:05:00.220 --> 00:05:02.340 line:90% align:center
+<Default><b>you need to have
+my entire body in view.</b></Default>
+
+c0000084
+00:05:02.590 --> 00:05:05.180 line:90% align:center
+<Default><b>That's why you can't use this
+against multiple targets.</b></Default>
+
+c0000085
+00:05:05.640 --> 00:05:07.310 line:90% align:center
+<Default><b>[WIRBEL]
+You were aiming for my eyes.</b></Default>
+
+c0000086
+00:05:07.560 --> 00:05:09.390 line:90% align:center
+<Default><b>The logical choice,
+don't you agree?</b></Default>
+
+c0000087
+00:05:10.060 --> 00:05:11.060 line:90% align:center
+<Default><b>[WIRBEL]
+Oh, no.</b></Default>
+
+c0000088
+00:05:11.390 --> 00:05:13.190 line:90% align:center
+<Default><b>If I were you,
+I would've gone for the kill</b></Default>
+
+c0000089
+00:05:13.270 --> 00:05:14.480 line:90% align:center
+<Default><b>and aimed for my neck.</b></Default>
+
+c0000090
+00:05:14.940 --> 00:05:16.860 line:90% align:center
+<Default><b>Put an end to this
+once and for all.</b></Default>
+
+c0000091
+00:05:18.190 --> 00:05:20.030 line:90% align:center
+<Default><b>You should've been
+able to stomach that.</b></Default>
+
+c0000092
+00:05:21.490 --> 00:05:23.450 line:90% align:center
+<Default><b>Would be easy for some
+of the folks I've met</b></Default>
+
+c0000093
+00:05:23.530 --> 00:05:24.530 line:90% align:center
+<Default><b>on the battlefield.</b></Default>
+
+c0000094
+00:05:25.280 --> 00:05:27.200 line:90% align:center
+<Default><b>Guided by bloodlust
+and boredom,</b></Default>
+
+c0000095
+00:05:27.370 --> 00:05:29.750 line:90% align:center
+<Default><b>they killed anything
+that breathed for a thrill.</b></Default>
+
+c0000096
+00:05:32.420 --> 00:05:34.090 line:90% align:center
+<Default><b>Times like these,
+I wish I could take a page</b></Default>
+
+c0000097
+00:05:34.170 --> 00:05:35.170 line:90% align:center
+<Default><b>out of their book.</b></Default>
+
+c0000098
+00:05:38.050 --> 00:05:40.590 line:90% align:center
+<Default><b>Ever been made to kill women
+and children before?</b></Default>
+
+c0000099
+00:05:41.470 --> 00:05:43.050 line:90% align:center
+<Default><b>Think there's a chance
+I haven't?</b></Default>
+
+c0000100
+00:05:43.930 --> 00:05:44.930 line:90% align:center
+<Default><b>Oh, my.</b></Default>
+
+c0000101
+00:05:45.850 --> 00:05:47.850 line:90% align:center
+<Default><b>What hells have you seen
+in your life?</b></Default>
+
+c0000102
+00:05:48.640 --> 00:05:50.060 line:90% align:center
+<Default><b>Trying to buy more time?</b></Default>
+
+c0000103
+00:05:52.440 --> 00:05:53.440 line:90% align:center
+<Default><b>So be it.</b></Default>
+
+c0000104
+00:05:53.690 --> 00:05:54.810 line:90% align:center
+<Default><b>I'll play along.</b></Default>
+
+c0000105
+00:05:54.980 --> 00:05:57.230 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000106
+00:05:57.650 --> 00:06:00.030 line:90% align:center
+<Default><b>[WIRBEL] The Northern
+Magic Corps are mercenaries</b></Default>
+
+c0000107
+00:06:00.110 --> 00:06:01.900 line:90% align:center
+<Default><b>who specialize
+in fighting demons.</b></Default>
+
+c0000108
+00:06:02.740 --> 00:06:04.030 line:90% align:center
+<Default><b>But when necessary,</b></Default>
+
+c0000109
+00:06:04.360 --> 00:06:07.200 line:90% align:center
+<Default><b>we're mobilized to fight
+in wars between nations.</b></Default>
+
+c0000110
+00:06:09.790 --> 00:06:13.170 line:90% align:center
+<Default><b>People know exactly what
+makes their fellow man weak.</b></Default>
+
+c0000111
+00:06:14.540 --> 00:06:17.710 line:90% align:center
+<Default><b>The fiendish act of sending
+women and children to war</b></Default>
+
+c0000112
+00:06:17.790 --> 00:06:18.840 line:90% align:center
+<Default><b>wasn't uncommon.</b></Default>
+
+c0000113
+00:06:19.670 --> 00:06:21.340 line:90% align:center
+<Default><b>Where we were in the far north,</b></Default>
+
+c0000114
+00:06:21.630 --> 00:06:22.880 line:90% align:center
+<Default><b>it wasn't hell.</b></Default>
+
+c0000115
+00:06:23.430 --> 00:06:25.180 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000116
+00:06:25.260 --> 00:06:27.220 line:90% align:center
+<Default><b>It was just another day.</b></Default>
+
+c0000117
+00:06:28.140 --> 00:06:29.140 line:90% align:center
+<Default><b>Lovely.</b></Default>
+
+c0000118
+00:06:30.680 --> 00:06:31.850 line:90% align:center
+<Default><b>I've heard enough.</b></Default>
+
+c0000119
+00:06:31.930 --> 00:06:34.640 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000120
+00:06:35.940 --> 00:06:38.940 line:90% align:center
+<Default><b>[leaves rustling]</b></Default>
+
+c0000121
+00:06:44.570 --> 00:06:46.120 line:90% align:center
+<Default><b>[UBEL] You're not going
+to kill me, then?</b></Default>
+
+c0000122
+00:06:48.830 --> 00:06:49.910 line:90% align:center
+<Default><b>No surprise.</b></Default>
+
+c0000123
+00:06:50.040 --> 00:06:52.580 line:90% align:center
+<Default><b>I believe the kind of magic
+a mage specializes in</b></Default>
+
+c0000124
+00:06:52.660 --> 00:06:54.660 line:90% align:center
+<Default><b>is strongly related
+to the life they've led</b></Default>
+
+c0000125
+00:06:54.750 --> 00:06:56.210 line:90% align:center
+<Default><b>and the type of person
+they are.</b></Default>
+
+c0000126
+00:06:57.250 --> 00:06:58.540 line:90% align:center
+<Default><b>A spell that binds foes</b></Default>
+
+c0000127
+00:06:58.630 --> 00:07:00.420 line:90% align:center
+<Default><b>is a way of putting off
+their slaughter.</b></Default>
+
+c0000128
+00:07:00.630 --> 00:07:03.420 line:90% align:center
+<Default><b>That tells me all I need
+to know about your true nature.</b></Default>
+
+c0000129
+00:07:05.180 --> 00:07:06.180 line:90% align:center
+<Default><b>I bought time.</b></Default>
+
+c0000130
+00:07:06.680 --> 00:07:09.310 line:90% align:center
+<Default><b>Your distaste for murder
+explains why you let me.</b></Default>
+
+c0000131
+00:07:10.060 --> 00:07:11.270 line:90% align:center
+<Default><b>How interesting.</b></Default>
+
+c0000132
+00:07:11.560 --> 00:07:14.060 line:90% align:center
+<Default><b>Your hands are as drenched
+in blood as they could be,</b></Default>
+
+c0000133
+00:07:14.230 --> 00:07:16.770 line:90% align:center
+<Default><b>yet at the end of the day,
+you want to remain human.</b></Default>
+
+c0000134
+00:07:16.850 --> 00:07:19.190 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000135
+00:07:20.270 --> 00:07:21.520 line:90% align:center
+<Default><b>You nailed me.</b></Default>
+
+c0000136
+00:07:21.900 --> 00:07:24.280 line:90% align:center
+<Default><b>I use this time
+to prepare myself to kill.</b></Default>
+
+c0000137
+00:07:25.530 --> 00:07:26.950 line:90% align:center
+<Default><b>But you should know.
+[chuckles]</b></Default>
+
+c0000138
+00:07:29.330 --> 00:07:31.910 line:90% align:center
+<Default><b>Though I may hesitate
+before finishing the job,</b></Default>
+
+c0000139
+00:07:32.490 --> 00:07:34.660 line:90% align:center
+<Default><b>I always kill
+when it's necessary.</b></Default>
+
+c0000140
+00:07:35.210 --> 00:07:38.250 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000141
+00:07:38.330 --> 00:07:39.920 line:90% align:center
+<Default><b>Well, miss? See ya.</b></Default>
+
+c0000142
+00:07:40.130 --> 00:07:43.210 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000143
+00:07:44.300 --> 00:07:45.720 line:90% align:center
+<Default><b>You can stop right there.</b></Default>
+
+c0000144
+00:07:51.680 --> 00:07:53.140 line:90% align:center
+<Default><b>This has gotta be a joke.</b></Default>
+
+c0000145
+00:07:53.220 --> 00:07:55.140 line:90% align:center
+<Default><b>You expect me to believe
+you beat Ehre?</b></Default>
+
+c0000146
+00:07:55.600 --> 00:07:57.310 line:90% align:center
+<Default><b>[WIRBEL] I didn't sense
+her coming at all.</b></Default>
+
+c0000147
+00:07:58.310 --> 00:07:59.560 line:90% align:center
+<Default><b>Now that's a talent.</b></Default>
+
+c0000148
+00:07:59.690 --> 00:08:01.650 line:90% align:center
+<Default><b>You can completely
+conceal your mana?</b></Default>
+
+c0000149
+00:08:03.110 --> 00:08:05.110 line:90% align:center
+<Default><b>You must be the one
+who captured the Stille.</b></Default>
+
+c0000150
+00:08:05.860 --> 00:08:07.610 line:90% align:center
+<Default><b>I would call it a lucky break.</b></Default>
+
+c0000151
+00:08:07.780 --> 00:08:10.320 line:90% align:center
+<Default><b>She'd learned a spell that
+catches birds from her master,</b></Default>
+
+c0000152
+00:08:10.530 --> 00:08:11.910 line:90% align:center
+<Default><b>and we just so happened
+to stumble</b></Default>
+
+c0000153
+00:08:11.990 --> 00:08:14.250 line:90% align:center
+<Default><b>upon a Stille's roost
+early in the exam.</b></Default>
+
+c0000154
+00:08:14.580 --> 00:08:16.790 line:90% align:center
+<Default><b>Though, I guess you have
+a binding spell, too.</b></Default>
+
+c0000155
+00:08:17.000 --> 00:08:19.380 line:90% align:center
+<Default><b>Luck can't be
+on all of our sides, can she?</b></Default>
+
+c0000156
+00:08:19.830 --> 00:08:21.170 line:90% align:center
+<Default><b>Well, apparently, not.</b></Default>
+
+c0000157
+00:08:21.250 --> 00:08:22.340 line:90% align:center
+<Default><b>Look at me now.</b></Default>
+
+c0000158
+00:08:23.130 --> 00:08:24.590 line:90% align:center
+<Default><b>You were fighting
+Ehre, correct?</b></Default>
+
+c0000159
+00:08:25.170 --> 00:08:26.340 line:90% align:center
+<Default><b>What happened to her?</b></Default>
+
+c0000160
+00:08:26.630 --> 00:08:27.670 line:90% align:center
+<Default><b>I killed her.</b></Default>
+
+c0000161
+00:08:32.800 --> 00:08:33.930 line:90% align:center
+<Default><b>[WIRBEL]
+There were two conditions</b></Default>
+
+c0000162
+00:08:34.010 --> 00:08:35.270 line:90% align:center
+<Default><b>for passing the first test.</b></Default>
+
+c0000163
+00:08:35.680 --> 00:08:37.810 line:90% align:center
+<Default><b>Possess a Stille
+by sunset tonight,</b></Default>
+
+c0000164
+00:08:38.270 --> 00:08:40.480 line:90% align:center
+<Default><b>and have all your party members
+there to present it</b></Default>
+
+c0000165
+00:08:40.560 --> 00:08:42.110 line:90% align:center
+<Default><b>when that time finally arrives.</b></Default>
+
+c0000166
+00:08:44.770 --> 00:08:46.150 line:90% align:center
+<Default><b>If she's dead, we lost.</b></Default>
+
+c0000167
+00:08:46.570 --> 00:08:47.820 line:90% align:center
+<Default><b>My time to go home.</b></Default>
+
+c0000168
+00:08:48.570 --> 00:08:50.490 line:90% align:center
+<Default><b>Did you forget
+you were going to kill me?</b></Default>
+
+c0000169
+00:08:51.370 --> 00:08:52.870 line:90% align:center
+<Default><b>I've already failed the test.</b></Default>
+
+c0000170
+00:08:53.370 --> 00:08:55.160 line:90% align:center
+<Default><b>Killing you would be
+unnecessary.</b></Default>
+
+c0000171
+00:08:56.290 --> 00:08:57.290 line:90% align:center
+<Default><b>Later.</b></Default>
+
+c0000172
+00:08:57.540 --> 00:08:58.830 line:90% align:center
+<Default><b>[clanking]</b></Default>
+
+c0000173
+00:08:58.910 --> 00:09:00.960 line:90% align:center
+<Default><b>[WIRBEL] You can attack me
+from behind if you want,</b></Default>
+
+c0000174
+00:09:02.540 --> 00:09:04.210 line:90% align:center
+<Default><b>but you'll only be
+turning your killing</b></Default>
+
+c0000175
+00:09:04.300 --> 00:09:05.800 line:90% align:center
+<Default><b>back into a necessary one.</b></Default>
+
+c0000176
+00:09:06.670 --> 00:09:07.840 line:90% align:center
+<Default><b>Please, Miss Ubel.</b></Default>
+
+c0000177
+00:09:08.420 --> 00:09:09.670 line:90% align:center
+<Default><b>I know, I know.</b></Default>
+
+c0000178
+00:09:15.100 --> 00:09:16.680 line:90% align:center
+<Default><b>You're quite the liar,
+aren't you?</b></Default>
+
+c0000179
+00:09:17.020 --> 00:09:18.020 line:90% align:center
+<Default><b>We need to hurry.</b></Default>
+
+c0000180
+00:09:18.100 --> 00:09:19.980 line:90% align:center
+<Default><b>We can still assist
+Mister Land.</b></Default>
+
+c0000181
+00:09:20.690 --> 00:09:22.020 line:90% align:center
+<Default><b>Four-eyes will be fine.</b></Default>
+
+c0000182
+00:09:22.150 --> 00:09:23.440 line:90% align:center
+<Default><b>Not to play down your skills,</b></Default>
+
+c0000183
+00:09:23.520 --> 00:09:25.520 line:90% align:center
+<Default><b>but he's an even
+better liar than you.</b></Default>
+
+c0000184
+00:09:25.900 --> 00:09:32.910 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000185
+00:09:35.950 --> 00:09:37.120 line:90% align:center
+<Default><b>[crackling]</b></Default>
+
+c0000186
+00:09:37.290 --> 00:09:39.790 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000187
+00:09:39.870 --> 00:09:41.170 line:90% align:center
+<Default><b>This battle is over.</b></Default>
+
+c0000188
+00:09:42.960 --> 00:09:44.420 line:90% align:center
+<Default><b>[LAND]
+How impressive.</b></Default>
+
+c0000189
+00:09:44.630 --> 00:09:47.000 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000190
+00:09:47.090 --> 00:09:49.880 line:90% align:center
+<Default><b>You transformed flower petals
+into metallic shards.</b></Default>
+
+c0000191
+00:09:49.960 --> 00:09:50.970 line:90% align:center
+<Default><b>Quite the feat.</b></Default>
+
+c0000192
+00:09:51.180 --> 00:09:52.720 line:90% align:center
+<Default><b>They slipped
+through my defenses.</b></Default>
+
+c0000193
+00:09:54.470 --> 00:09:56.260 line:90% align:center
+<Default><b>This is a homemade trick, yes?</b></Default>
+
+c0000194
+00:09:56.760 --> 00:09:58.060 line:90% align:center
+<Default><b>[chuckles]
+It's very flashy.</b></Default>
+
+c0000195
+00:09:58.220 --> 00:10:00.980 line:90% align:center
+<Default><b>But spells like that
+often neglect fundamentals.</b></Default>
+
+c0000196
+00:10:01.890 --> 00:10:04.400 line:90% align:center
+<Default><b>My strategy
+is to watch and wait,</b></Default>
+
+c0000197
+00:10:04.690 --> 00:10:06.360 line:90% align:center
+<Default><b>especially when fighting
+an opponent</b></Default>
+
+c0000198
+00:10:06.440 --> 00:10:07.770 line:90% align:center
+<Default><b>I'm not familiar with.</b></Default>
+
+c0000199
+00:10:08.730 --> 00:10:11.030 line:90% align:center
+<Default><b>Now I know precisely
+what your weaknesses are.</b></Default>
+
+c0000200
+00:10:11.490 --> 00:10:13.410 line:90% align:center
+<Default><b>Therefore, I will win.</b></Default>
+
+c0000201
+00:10:14.070 --> 00:10:16.870 line:90% align:center
+<Default><b>That's big talk,
+but you're an arm down.</b></Default>
+
+c0000202
+00:10:17.240 --> 00:10:18.540 line:90% align:center
+<Default><b>Victory is mine.</b></Default>
+
+c0000203
+00:10:18.790 --> 00:10:21.500 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000204
+00:10:21.580 --> 00:10:23.250 line:90% align:center
+<Default><b>If you don't quiet down
+and surrender,</b></Default>
+
+c0000205
+00:10:23.330 --> 00:10:25.080 line:90% align:center
+<Default><b>your head will be
+my next target.</b></Default>
+
+c0000206
+00:10:25.290 --> 00:10:26.290 line:90% align:center
+<Default><b>Like I said,</b></Default>
+
+c0000207
+00:10:26.380 --> 00:10:28.960 line:90% align:center
+<Default><b>I'm still observing you
+before our battle begins.</b></Default>
+
+c0000208
+00:10:30.050 --> 00:10:32.840 line:90% align:center
+<Default><b>Turns out, you're not
+good at sensing mana.</b></Default>
+
+c0000209
+00:10:33.220 --> 00:10:34.220 line:90% align:center
+<Default><b>[gasps]</b></Default>
+
+c0000210
+00:10:36.430 --> 00:10:38.560 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000211
+00:10:42.060 --> 00:10:43.310 line:90% align:center
+<Default><b>Illusion magic.</b></Default>
+
+c0000212
+00:10:43.600 --> 00:10:45.060 line:90% align:center
+<Default><b>My copy has substance,</b></Default>
+
+c0000213
+00:10:45.140 --> 00:10:47.020 line:90% align:center
+<Default><b>making it much more akin
+to a clone.</b></Default>
+
+c0000214
+00:10:48.980 --> 00:10:50.400 line:90% align:center
+<Default><b>How long have you--
+[gasps]</b></Default>
+
+c0000215
+00:10:52.030 --> 00:10:53.030 line:90% align:center
+<Default><b>[thuds]</b></Default>
+
+c0000216
+00:10:53.490 --> 00:10:54.990 line:90% align:center
+<Default><b>Much longer than you'd think.</b></Default>
+
+c0000217
+00:10:55.360 --> 00:10:57.490 line:90% align:center
+<Default><b>Since this test
+first began, actually.</b></Default>
+
+c0000218
+00:10:58.660 --> 00:11:00.990 line:90% align:center
+<Default><b>I'm not foolish enough
+to trust anyone.</b></Default>
+
+c0000219
+00:11:02.790 --> 00:11:03.790 line:90% align:center
+<Default><b>[WIRBEL]
+Ugh.</b></Default>
+
+c0000220
+00:11:04.620 --> 00:11:06.000 line:90% align:center
+<Default><b>Doesn't look dead to me.</b></Default>
+
+c0000221
+00:11:07.130 --> 00:11:08.170 line:90% align:center
+<Default><b>Killed her, huh?</b></Default>
+
+c0000222
+00:11:08.380 --> 00:11:10.170 line:90% align:center
+<Default><b>That bitch lied
+like it was nothing.</b></Default>
+
+c0000223
+00:11:11.380 --> 00:11:13.010 line:90% align:center
+<Default><b>Naptime's over, Ehre.</b></Default>
+
+c0000224
+00:11:13.380 --> 00:11:14.590 line:90% align:center
+<Default><b>[groaning]</b></Default>
+
+c0000225
+00:11:15.550 --> 00:11:17.390 line:90% align:center
+<Default><b>I guess graduating
+top of your class</b></Default>
+
+c0000226
+00:11:17.470 --> 00:11:18.510 line:90% align:center
+<Default><b>doesn't mean much.</b></Default>
+
+c0000227
+00:11:18.600 --> 00:11:20.510 line:90% align:center
+<Default><b>You're out of mana
+after one fight?</b></Default>
+
+c0000228
+00:11:21.890 --> 00:11:23.480 line:90% align:center
+<Default><b>I was completely overwhelmed</b></Default>
+
+c0000229
+00:11:23.560 --> 00:11:25.560 line:90% align:center
+<Default><b>by her ordinary
+offensive magic.</b></Default>
+
+c0000230
+00:11:26.140 --> 00:11:28.150 line:90% align:center
+<Default><b>There was no chance
+I could block it all.</b></Default>
+
+c0000231
+00:11:30.440 --> 00:11:32.110 line:90% align:center
+<Default><b>You don't believe me, do you?</b></Default>
+
+c0000232
+00:11:33.650 --> 00:11:35.740 line:90% align:center
+<Default><b>[WIRBEL]
+No, I do.</b></Default>
+
+c0000233
+00:11:39.820 --> 00:11:42.740 line:90% align:center
+<Default><b>I didn't pin you for the type
+of idiot that attacks head-on.</b></Default>
+
+c0000234
+00:11:43.250 --> 00:11:44.750 line:90% align:center
+<Default><b>If you would've kept
+your guard up,</b></Default>
+
+c0000235
+00:11:44.830 --> 00:11:46.290 line:90% align:center
+<Default><b>then you might've
+had a decent shot.</b></Default>
+
+c0000236
+00:11:49.130 --> 00:11:51.040 line:90% align:center
+<Default><b>[WIRBEL] But if that girl
+could pull off this stunt</b></Default>
+
+c0000237
+00:11:51.130 --> 00:11:53.090 line:90% align:center
+<Default><b>with ordinary
+offensive magic alone,</b></Default>
+
+c0000238
+00:11:53.960 --> 00:11:56.590 line:90% align:center
+<Default><b>she must be even more
+of a monster than we realized.</b></Default>
+
+c0000239
+00:11:58.300 --> 00:11:59.140 line:90% align:center
+<Default><b>-Come on.
+-[EHRE] Hm.</b></Default>
+
+c0000240
+00:11:59.220 --> 00:12:00.390 line:90% align:center
+<Default><b>Let's meet up with Scharf.</b></Default>
+
+c0000241
+00:12:01.310 --> 00:12:03.680 line:90% align:center
+<Default><b>Hey, wait a moment.
+I can't walk yet.</b></Default>
+
+c0000242
+00:12:04.890 --> 00:12:06.480 line:90% align:center
+<Default><b>Need a lift, do you?</b></Default>
+
+c0000243
+00:12:11.650 --> 00:12:14.490 line:90% align:center
+<Default><b>Stop it! You can't
+float me like an object!</b></Default>
+
+c0000244
+00:12:14.610 --> 00:12:16.070 line:90% align:center
+<Default><b>Just carry me!</b></Default>
+
+c0000245
+00:12:16.240 --> 00:12:17.740 line:90% align:center
+<Default><b>[groans]</b></Default>
+
+c0000246
+00:12:20.700 --> 00:12:22.660 line:90% align:center
+<Default><b>Why do I have to play
+your horsey?</b></Default>
+
+c0000247
+00:12:23.080 --> 00:12:25.080 line:90% align:center
+<Default><b>Do you sense Scharf
+anywhere nearby?</b></Default>
+
+c0000248
+00:12:25.540 --> 00:12:27.290 line:90% align:center
+<Default><b>He's just around
+those bushes there.</b></Default>
+
+c0000249
+00:12:28.420 --> 00:12:29.580 line:90% align:center
+<Default><b>Over here, Scharf!</b></Default>
+
+c0000250
+00:12:29.750 --> 00:12:31.960 line:90% align:center
+<Default><b>I need you to help me
+carry... Huh.</b></Default>
+
+c0000251
+00:12:35.800 --> 00:12:38.220 line:90% align:center
+<Default><b>Wirbel, please carry me.</b></Default>
+
+c0000252
+00:12:38.800 --> 00:12:40.470 line:90% align:center
+<Default><b>My whole body feels numb.</b></Default>
+
+c0000253
+00:12:41.140 --> 00:12:42.510 line:90% align:center
+<Default><b>[groans]</b></Default>
+
+c0000254
+00:12:45.140 --> 00:12:46.140 line:90% align:center
+<Default><b>Damn it.</b></Default>
+
+c0000255
+00:12:46.350 --> 00:12:48.350 line:90% align:center
+<Default><b>Just when you think
+it couldn't get worse.</b></Default>
+
+c0000256
+00:12:49.650 --> 00:12:51.650 line:90% align:center
+<Default><b>[rain splattering]</b></Default>
+
+c0000257
+00:12:51.810 --> 00:12:54.020 line:90% align:center
+<Default><b>Hear that sound?
+What could it be?</b></Default>
+
+c0000258
+00:12:54.400 --> 00:12:55.900 line:90% align:center
+<Default><b>It's probably rain.</b></Default>
+
+c0000259
+00:12:56.320 --> 00:12:58.450 line:90% align:center
+<Default><b>Sounds strange bouncing
+off the barrier.</b></Default>
+
+c0000260
+00:12:59.450 --> 00:13:01.240 line:90% align:center
+<Default><b>Gloomy outside and in.</b></Default>
+
+c0000261
+00:13:01.660 --> 00:13:04.620 line:90% align:center
+<Default><b>I'd say we've got two, maybe
+three more hours of daylight,</b></Default>
+
+c0000262
+00:13:04.990 --> 00:13:06.410 line:90% align:center
+<Default><b>then the first test will end.</b></Default>
+
+c0000263
+00:13:07.450 --> 00:13:08.910 line:90% align:center
+<Default><b>With two of our men down,</b></Default>
+
+c0000264
+00:13:09.460 --> 00:13:11.870 line:90% align:center
+<Default><b>there's no chance we nab
+another party's Stille.</b></Default>
+
+c0000265
+00:13:12.580 --> 00:13:14.590 line:90% align:center
+<Default><b>And there's no question
+we're going to fail.</b></Default>
+
+c0000266
+00:13:15.750 --> 00:13:18.630 line:90% align:center
+<Default><b>Perhaps not, but you're
+still helping us along anyway.</b></Default>
+
+c0000267
+00:13:18.800 --> 00:13:20.010 line:90% align:center
+<Default><b>You're a kind man.</b></Default>
+
+c0000268
+00:13:20.170 --> 00:13:22.550 line:90% align:center
+<Default><b>That makes me want to throw
+both of you in a ditch.</b></Default>
+
+c0000269
+00:13:23.260 --> 00:13:24.350 line:90% align:center
+<Default><b>Please don't, sir.</b></Default>
+
+c0000270
+00:13:24.430 --> 00:13:26.470 line:90% align:center
+<Default><b>Act like a man, flower boy!</b></Default>
+
+c0000271
+00:13:28.480 --> 00:13:30.020 line:90% align:center
+<Default><b>Kindness can be hard to hide.</b></Default>
+
+c0000272
+00:13:30.100 --> 00:13:32.810 line:90% align:center
+<Default><b>I wonder if yours is the reason
+you fight demons.</b></Default>
+
+c0000273
+00:13:33.100 --> 00:13:34.770 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000274
+00:13:38.230 --> 00:13:41.150 line:90% align:center
+<Default><b>I certainly thought it was kind
+when you saved my village.</b></Default>
+
+c0000275
+00:13:41.240 --> 00:13:42.820 line:90% align:center
+<Default><b>-Are you dumb?
+-[gasps]</b></Default>
+
+c0000276
+00:13:42.950 --> 00:13:45.280 line:90% align:center
+<Default><b>I didn't do it out
+of the goodness of my heart.</b></Default>
+
+c0000277
+00:13:45.740 --> 00:13:48.750 line:90% align:center
+<Default><b>We've all got our own desires
+and agendas to fulfill.</b></Default>
+
+c0000278
+00:13:50.000 --> 00:13:51.870 line:90% align:center
+<Default><b>My big ulterior motive</b></Default>
+
+c0000279
+00:13:52.370 --> 00:13:54.830 line:90% align:center
+<Default><b>was winning over the girl
+I loved back home.</b></Default>
+
+c0000280
+00:13:56.380 --> 00:13:58.510 line:90% align:center
+<Default><b>It's been exactly 29 years</b></Default>
+
+c0000281
+00:13:58.590 --> 00:14:00.970 line:90% align:center
+<Default><b>since demon activity
+in the north caused life there</b></Default>
+
+c0000282
+00:14:01.050 --> 00:14:02.380 line:90% align:center
+<Default><b>to take a turn for the worse.</b></Default>
+
+c0000283
+00:14:02.720 --> 00:14:05.600 line:90% align:center
+<Default><b>She and her family opted
+to flee to the central lands.</b></Default>
+
+c0000284
+00:14:06.260 --> 00:14:08.010 line:90% align:center
+<Default><b>I did what
+any stupid kid would do</b></Default>
+
+c0000285
+00:14:08.520 --> 00:14:10.060 line:90% align:center
+<Default><b>and decided
+to show off for her.</b></Default>
+
+c0000286
+00:14:11.140 --> 00:14:12.690 line:90% align:center
+<Default><b>[WIRBEL]
+When I grow up big and strong,</b></Default>
+
+c0000287
+00:14:12.770 --> 00:14:14.940 line:90% align:center
+<Default><b>none of those shitty demons
+stand a chance!</b></Default>
+
+c0000288
+00:14:15.150 --> 00:14:17.610 line:90% align:center
+<Default><b>Once I kill 'em all, you better
+come back here, okay?</b></Default>
+
+c0000289
+00:14:18.110 --> 00:14:19.110 line:90% align:center
+<Default><b>[chuckles]</b></Default>
+
+c0000290
+00:14:19.230 --> 00:14:23.660 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000291
+00:14:23.740 --> 00:14:24.990 line:90% align:center
+<Default><b>[WIRBEL]
+I couldn't have been more than</b></Default>
+
+c0000292
+00:14:25.070 --> 00:14:26.580 line:90% align:center
+<Default><b>four or five years old.</b></Default>
+
+c0000293
+00:14:27.450 --> 00:14:29.950 line:90% align:center
+<Default><b>Her name and face
+are lost to me.</b></Default>
+
+c0000294
+00:14:31.290 --> 00:14:32.290 line:90% align:center
+<Default><b>[chuckles]</b></Default>
+
+c0000295
+00:14:34.330 --> 00:14:35.500 line:90% align:center
+<Default><b>[EHRE]
+What an idiot.</b></Default>
+
+c0000296
+00:14:36.080 --> 00:14:37.090 line:90% align:center
+<Default><b>[WIRBEL]
+Yeah.</b></Default>
+
+c0000297
+00:14:37.500 --> 00:14:38.590 line:90% align:center
+<Default><b>You got that right.</b></Default>
+
+c0000298
+00:14:38.710 --> 00:14:44.840 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000299
+00:14:44.970 --> 00:14:47.600 line:90% align:center
+<Default><b>Do we really have to sail
+all the way back home again?</b></Default>
+
+c0000300
+00:14:47.760 --> 00:14:49.350 line:90% align:center
+<Default><b>I get seasick every time.</b></Default>
+
+c0000301
+00:14:49.470 --> 00:14:51.930 line:90% align:center
+<Default><b>Maybe I could introduce you
+to my grandfather.</b></Default>
+
+c0000302
+00:14:52.350 --> 00:14:55.020 line:90% align:center
+<Default><b>He's a first-class mage,
+so we could travel by...</b></Default>
+
+c0000303
+00:14:56.150 --> 00:14:57.360 line:90% align:center
+<Default><b>Hey, Wirbel.</b></Default>
+
+c0000304
+00:14:58.310 --> 00:14:59.150 line:90% align:center
+<Default><b>What?</b></Default>
+
+c0000305
+00:14:59.230 --> 00:15:00.270 line:90% align:center
+<Default><b>-Up there. [speaks softly]
+-Hm.</b></Default>
+
+c0000306
+00:15:00.820 --> 00:15:01.860 line:90% align:center
+<Default><b>[bird chirps]</b></Default>
+
+c0000307
+00:15:03.650 --> 00:15:05.570 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000308
+00:15:11.950 --> 00:15:13.460 line:90% align:center
+<Default><b>You've gotta be kidding me.</b></Default>
+
+c0000309
+00:15:13.620 --> 00:15:15.710 line:90% align:center
+<Default><b>So, all that effort
+was for nothing?</b></Default>
+
+c0000310
+00:15:16.790 --> 00:15:19.500 line:90% align:center
+<Default><b>Took long enough for luck
+to choose the right side.</b></Default>
+
+c0000311
+00:15:19.750 --> 00:15:20.750 line:90% align:center
+<Default><b>[chirping]</b></Default>
+
+c0000312
+00:15:22.550 --> 00:15:26.050 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000313
+00:15:26.180 --> 00:15:29.640 line:90% align:center
+<Default><b>Frieren. Is there a reason
+she's not doing anything, or...</b></Default>
+
+c0000314
+00:15:29.970 --> 00:15:32.430 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000315
+00:15:32.520 --> 00:15:34.100 line:90% align:center
+<Default><b>[DENKEN]
+An elf, huh?</b></Default>
+
+c0000316
+00:15:34.850 --> 00:15:36.850 line:90% align:center
+<Default><b>She's a skilled mage, indeed.</b></Default>
+
+c0000317
+00:15:37.860 --> 00:15:39.820 line:90% align:center
+<Default><b>Now that she's seen it,
+I highly doubt</b></Default>
+
+c0000318
+00:15:39.900 --> 00:15:42.610 line:90% align:center
+<Default><b>Laufen's magic would
+work on her a second time.</b></Default>
+
+c0000319
+00:15:43.230 --> 00:15:44.990 line:90% align:center
+<Default><b>But just once was enough.</b></Default>
+
+c0000320
+00:15:45.440 --> 00:15:47.110 line:90% align:center
+<Default><b>We're not trying
+to kill each other.</b></Default>
+
+c0000321
+00:15:47.740 --> 00:15:49.990 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000322
+00:15:50.070 --> 00:15:51.490 line:90% align:center
+<Default><b>-[gasps]
+-Where'd she go?</b></Default>
+
+c0000323
+00:15:51.580 --> 00:15:53.120 line:90% align:center
+<Default><b>Huh. Frieren!</b></Default>
+
+c0000324
+00:15:53.290 --> 00:15:54.330 line:90% align:center
+<Default><b>The Stille.</b></Default>
+
+c0000325
+00:15:55.830 --> 00:15:57.120 line:90% align:center
+<Default><b>Seems she took it.</b></Default>
+
+c0000326
+00:15:59.170 --> 00:16:01.590 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000327
+00:16:02.000 --> 00:16:03.050 line:90% align:center
+<Default><b>Ah.</b></Default>
+
+c0000328
+00:16:03.420 --> 00:16:04.920 line:90% align:center
+<Default><b>That's an interesting spell.</b></Default>
+
+c0000329
+00:16:06.010 --> 00:16:09.010 line:90% align:center
+<Default><b>[birds chirping]</b></Default>
+
+c0000330
+00:16:11.720 --> 00:16:12.720 line:90% align:center
+<Default><b>-[chirps]
+-[sips]</b></Default>
+
+c0000331
+00:16:13.770 --> 00:16:15.180 line:90% align:center
+<Default><b>[fluttering]</b></Default>
+
+c0000332
+00:16:16.520 --> 00:16:19.190 line:90% align:center
+<Default><b>Hm. I appreciate
+what the barrier does</b></Default>
+
+c0000333
+00:16:19.270 --> 00:16:20.350 line:90% align:center
+<Default><b>for the weather.</b></Default>
+
+c0000334
+00:16:20.440 --> 00:16:21.860 line:90% align:center
+<Default><b>That could be
+something to consider</b></Default>
+
+c0000335
+00:16:21.940 --> 00:16:24.150 line:90% align:center
+<Default><b>as you prepare to proctor
+the second test.</b></Default>
+
+c0000336
+00:16:24.400 --> 00:16:25.530 line:90% align:center
+<Default><b>Right, Sense?</b></Default>
+
+c0000337
+00:16:26.240 --> 00:16:28.240 line:90% align:center
+<Default><b>To no one's surprise,
+it looks like you've killed</b></Default>
+
+c0000338
+00:16:28.320 --> 00:16:31.160 line:90% align:center
+<Default><b>a few promising
+test-takers, Genau. Again.</b></Default>
+
+c0000339
+00:16:31.660 --> 00:16:34.120 line:90% align:center
+<Default><b>[chuckles]
+Don't make me laugh.</b></Default>
+
+c0000340
+00:16:34.620 --> 00:16:38.540 line:90% align:center
+<Default><b>[groans] No one considered
+promising would die in here.</b></Default>
+
+c0000341
+00:16:39.540 --> 00:16:41.540 line:90% align:center
+<Default><b>Those who died
+have been weeded out.</b></Default>
+
+c0000342
+00:16:41.630 --> 00:16:43.590 line:90% align:center
+<Default><b>They were unfit
+for first-class.</b></Default>
+
+c0000343
+00:16:44.420 --> 00:16:46.420 line:90% align:center
+<Default><b>I shouldn't have
+to explain that to you.</b></Default>
+
+c0000344
+00:16:47.930 --> 00:16:49.800 line:90% align:center
+<Default><b>Regardless of how
+I feel about it,</b></Default>
+
+c0000345
+00:16:50.680 --> 00:16:53.050 line:90% align:center
+<Default><b>choosing a target immune
+to mana detection</b></Default>
+
+c0000346
+00:16:53.140 --> 00:16:55.060 line:90% align:center
+<Default><b>for a mage test
+wasn't nice of you.</b></Default>
+
+c0000347
+00:16:55.890 --> 00:16:58.430 line:90% align:center
+<Default><b>Catching one is based
+on luck and not skill.</b></Default>
+
+c0000348
+00:16:59.310 --> 00:17:02.100 line:90% align:center
+<Default><b>Your exam's a battle
+masquerading as a competition.</b></Default>
+
+c0000349
+00:17:02.900 --> 00:17:04.780 line:90% align:center
+<Default><b>I argue that luck is a skill.</b></Default>
+
+c0000350
+00:17:05.400 --> 00:17:07.650 line:90% align:center
+<Default><b>What's more, some test-takers</b></Default>
+
+c0000351
+00:17:07.740 --> 00:17:10.200 line:90% align:center
+<Default><b>have captured a Stille
+without any help from fate.</b></Default>
+
+c0000352
+00:17:11.780 --> 00:17:13.620 line:90% align:center
+<Default><b>The sun will set
+in three hours.</b></Default>
+
+c0000353
+00:17:14.370 --> 00:17:15.450 line:90% align:center
+<Default><b>From here on out,</b></Default>
+
+c0000354
+00:17:16.200 --> 00:17:18.000 line:90% align:center
+<Default><b>things will only intensify.</b></Default>
+
+c0000355
+00:17:20.920 --> 00:17:22.750 line:90% align:center
+<Default><b>Who do you suppose
+will survive it?</b></Default>
+
+c0000356
+00:17:23.040 --> 00:17:25.210 line:90% align:center
+<Default><b>I would wager that
+about a third will remain.</b></Default>
+
+c0000357
+00:17:25.460 --> 00:17:27.970 line:90% align:center
+<Default><b>And I am quite certain that
+Denken will be among them.</b></Default>
+
+c0000358
+00:17:28.800 --> 00:17:30.050 line:90% align:center
+<Default><b>His skills are comparable</b></Default>
+
+c0000359
+00:17:30.130 --> 00:17:32.720 line:90% align:center
+<Default><b>to many of our most respected
+first-class mages.</b></Default>
+
+c0000360
+00:17:33.180 --> 00:17:36.310 line:90% align:center
+<Default><b>He's an old man interested
+in wealth and political power.</b></Default>
+
+c0000361
+00:17:36.640 --> 00:17:38.470 line:90% align:center
+<Default><b>Why is he getting
+certified now?</b></Default>
+
+c0000362
+00:17:38.930 --> 00:17:40.940 line:90% align:center
+<Default><b>Do you think
+he's after the privilege?</b></Default>
+
+c0000363
+00:17:41.440 --> 00:17:42.480 line:90% align:center
+<Default><b>[GENAU]
+Who can say?</b></Default>
+
+c0000364
+00:17:43.060 --> 00:17:45.190 line:90% align:center
+<Default><b>But he is getting up
+there in years.</b></Default>
+
+c0000365
+00:17:45.560 --> 00:17:47.480 line:90% align:center
+<Default><b>I'm sure he has
+something on his mind.</b></Default>
+
+c0000366
+00:17:48.570 --> 00:17:51.740 line:90% align:center
+<Default><b>So, that spell your teammate
+used was Jilwer, yes?</b></Default>
+
+c0000367
+00:17:51.910 --> 00:17:53.110 line:90% align:center
+<Default><b>I've heard of it before.</b></Default>
+
+c0000368
+00:17:53.950 --> 00:17:56.030 line:90% align:center
+<Default><b>It's a folk spell used
+by a mountain tribe</b></Default>
+
+c0000369
+00:17:56.120 --> 00:17:57.580 line:90% align:center
+<Default><b>in the southern lands,
+isn't it?</b></Default>
+
+c0000370
+00:17:58.160 --> 00:18:00.040 line:90% align:center
+<Default><b>Indeed, very astute.</b></Default>
+
+c0000371
+00:18:00.250 --> 00:18:01.750 line:90% align:center
+<Default><b>What does Jilwer do?</b></Default>
+
+c0000372
+00:18:01.830 --> 00:18:03.710 line:90% align:center
+<Default><b>It allows you to move
+at high speed.</b></Default>
+
+c0000373
+00:18:04.040 --> 00:18:06.040 line:90% align:center
+<Default><b>She successfully
+executed the spell,</b></Default>
+
+c0000374
+00:18:06.130 --> 00:18:08.090 line:90% align:center
+<Default><b>so why didn't you two
+remain in hiding?</b></Default>
+
+c0000375
+00:18:08.880 --> 00:18:11.300 line:90% align:center
+<Default><b>She could've taken the Stille
+and been on her way.</b></Default>
+
+c0000376
+00:18:11.800 --> 00:18:14.260 line:90% align:center
+<Default><b>Laufen lacks
+precious experience.</b></Default>
+
+c0000377
+00:18:14.590 --> 00:18:17.100 line:90% align:center
+<Default><b>She left too many traces
+of mana behind.</b></Default>
+
+c0000378
+00:18:17.430 --> 00:18:19.180 line:90% align:center
+<Default><b>There's no doubt that
+you could hunt her down</b></Default>
+
+c0000379
+00:18:19.270 --> 00:18:21.390 line:90% align:center
+<Default><b>in a heartbeat, Frieren.</b></Default>
+
+c0000380
+00:18:23.020 --> 00:18:25.270 line:90% align:center
+<Default><b>It's apparent that our presence
+has undermined</b></Default>
+
+c0000381
+00:18:25.350 --> 00:18:26.900 line:90% align:center
+<Default><b>your well-laid plan.</b></Default>
+
+c0000382
+00:18:26.980 --> 00:18:28.150 line:90% align:center
+<Default><b>Well, yes.</b></Default>
+
+c0000383
+00:18:28.520 --> 00:18:30.480 line:90% align:center
+<Default><b>You've known who I was
+this whole time?</b></Default>
+
+c0000384
+00:18:30.860 --> 00:18:32.900 line:90% align:center
+<Default><b>There isn't a mage
+of my generation</b></Default>
+
+c0000385
+00:18:32.990 --> 00:18:34.490 line:90% align:center
+<Default><b>who doesn't know that name.</b></Default>
+
+c0000386
+00:18:35.160 --> 00:18:37.620 line:90% align:center
+<Default><b>It's my first time seeing you
+with my own eyes,</b></Default>
+
+c0000387
+00:18:38.240 --> 00:18:40.450 line:90% align:center
+<Default><b>but I recognized you
+immediately.</b></Default>
+
+c0000388
+00:18:40.790 --> 00:18:42.620 line:90% align:center
+<Default><b>You're the mage
+from the legendary party</b></Default>
+
+c0000389
+00:18:42.710 --> 00:18:45.250 line:90% align:center
+<Default><b>of heroes. The great Frieren.</b></Default>
+
+c0000390
+00:18:45.580 --> 00:18:46.840 line:90% align:center
+<Default><b>Is she famous?</b></Default>
+
+c0000391
+00:18:47.170 --> 00:18:49.090 line:90% align:center
+<Default><b>Famous would be
+an understatement.</b></Default>
+
+c0000392
+00:18:49.300 --> 00:18:51.090 line:90% align:center
+<Default><b>I knew that there might
+be a chance,</b></Default>
+
+c0000393
+00:18:51.170 --> 00:18:54.220 line:90% align:center
+<Default><b>but I guess it's true
+that elves never age.</b></Default>
+
+c0000394
+00:18:54.510 --> 00:18:57.140 line:90% align:center
+<Default><b>I'm shocked that you're
+challenging me so openly.</b></Default>
+
+c0000395
+00:18:57.600 --> 00:19:00.390 line:90% align:center
+<Default><b>I know you've been sniffing
+around us this entire time.</b></Default>
+
+c0000396
+00:19:00.930 --> 00:19:03.230 line:90% align:center
+<Default><b>I was expecting
+something more underhanded.</b></Default>
+
+c0000397
+00:19:03.890 --> 00:19:06.230 line:90% align:center
+<Default><b>Good thing,
+because that's what you'll get.</b></Default>
+
+c0000398
+00:19:06.980 --> 00:19:09.520 line:90% align:center
+<Default><b>Fighting Denken will require
+your full attention.</b></Default>
+
+c0000399
+00:19:09.730 --> 00:19:11.440 line:90% align:center
+<Default><b>And while your gaze
+is diverted,</b></Default>
+
+c0000400
+00:19:11.820 --> 00:19:12.940 line:90% align:center
+<Default><b>I'll kill a kid.</b></Default>
+
+c0000401
+00:19:13.440 --> 00:19:14.530 line:90% align:center
+<Default><b>Interesting.</b></Default>
+
+c0000402
+00:19:14.990 --> 00:19:16.780 line:90% align:center
+<Default><b>If we aren't able
+to pass the exam</b></Default>
+
+c0000403
+00:19:16.870 --> 00:19:18.570 line:90% align:center
+<Default><b>because we're lacking
+a party member,</b></Default>
+
+c0000404
+00:19:19.120 --> 00:19:21.160 line:90% align:center
+<Default><b>we'd have no reason to go
+after our Stille.</b></Default>
+
+c0000405
+00:19:21.540 --> 00:19:23.540 line:90% align:center
+<Default><b>Try me, then. I dare you.</b></Default>
+
+c0000406
+00:19:23.960 --> 00:19:25.920 line:90% align:center
+<Default><b>Lawine. He's no joke.</b></Default>
+
+c0000407
+00:19:26.080 --> 00:19:27.080 line:90% align:center
+<Default><b>I see that.</b></Default>
+
+c0000408
+00:19:30.340 --> 00:19:31.960 line:90% align:center
+<Default><b>Calm yourself, Richter.</b></Default>
+
+c0000409
+00:19:32.130 --> 00:19:34.970 line:90% align:center
+<Default><b>All we need to do is keep
+their hands and minds busy.</b></Default>
+
+c0000410
+00:19:35.130 --> 00:19:36.430 line:90% align:center
+<Default><b>This is ours to win.</b></Default>
+
+c0000411
+00:19:37.470 --> 00:19:38.430 line:90% align:center
+<Default><b>Look at you.</b></Default>
+
+c0000412
+00:19:39.010 --> 00:19:40.600 line:90% align:center
+<Default><b>I thought your work
+would've shaped you</b></Default>
+
+c0000413
+00:19:40.680 --> 00:19:43.180 line:90% align:center
+<Default><b>into a far more
+merciless man, Denken.</b></Default>
+
+c0000414
+00:19:43.520 --> 00:19:45.560 line:90% align:center
+<Default><b>You're an imperial mage,
+aren't you?</b></Default>
+
+c0000415
+00:19:45.980 --> 00:19:47.940 line:90% align:center
+<Default><b>I'm sure you've killed
+your fair share</b></Default>
+
+c0000416
+00:19:48.020 --> 00:19:49.270 line:90% align:center
+<Default><b>of political enemies.</b></Default>
+
+c0000417
+00:19:49.440 --> 00:19:56.450 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000418
+00:19:57.950 --> 00:20:00.660 line:90% align:center
+<Default><b>[DENKEN] I simply don't believe
+becoming a first-class mage</b></Default>
+
+c0000419
+00:20:00.740 --> 00:20:02.490 line:90% align:center
+<Default><b>is something
+to spill blood over.</b></Default>
+
+c0000420
+00:20:02.870 --> 00:20:04.790 line:90% align:center
+<Default><b>Then it seems
+we have common ground.</b></Default>
+
+c0000421
+00:20:05.330 --> 00:20:08.000 line:90% align:center
+<Default><b>First-class mage is nothing
+greater than a title.</b></Default>
+
+c0000422
+00:20:08.250 --> 00:20:10.380 line:90% align:center
+<Default><b>It has no real value,
+if you ask me.</b></Default>
+
+c0000423
+00:20:12.090 --> 00:20:13.800 line:90% align:center
+<Default><b>Oh, you can't be serious.</b></Default>
+
+c0000424
+00:20:14.260 --> 00:20:16.220 line:90% align:center
+<Default><b>You came here
+without knowing the privilege</b></Default>
+
+c0000425
+00:20:16.300 --> 00:20:17.380 line:90% align:center
+<Default><b>that title grants?</b></Default>
+
+c0000426
+00:20:17.510 --> 00:20:18.510 line:90% align:center
+<Default><b>[FRIEREN]
+Privilege?</b></Default>
+
+c0000427
+00:20:19.340 --> 00:20:20.340 line:90% align:center
+<Default><b>Yes.</b></Default>
+
+c0000428
+00:20:20.760 --> 00:20:22.300 line:90% align:center
+<Default><b>More than 50 years ago,</b></Default>
+
+c0000429
+00:20:22.390 --> 00:20:25.060 line:90% align:center
+<Default><b>the Continental Magic
+Association was founded.</b></Default>
+
+c0000430
+00:20:25.520 --> 00:20:28.600 line:90% align:center
+<Default><b>The mage responsible created it
+with one goal in mind,</b></Default>
+
+c0000431
+00:20:28.690 --> 00:20:31.110 line:90% align:center
+<Default><b>to rule and govern
+mankind's magic.</b></Default>
+
+c0000432
+00:20:31.190 --> 00:20:33.270 line:90% align:center
+<Default><b>That was Serie's grand design.</b></Default>
+
+c0000433
+00:20:34.820 --> 00:20:36.820 line:90% align:center
+<Default><b>[RICHTER] The long war
+against the Demon King</b></Default>
+
+c0000434
+00:20:36.900 --> 00:20:38.990 line:90% align:center
+<Default><b>refined a new breed of mages.</b></Default>
+
+c0000435
+00:20:39.410 --> 00:20:41.200 line:90% align:center
+<Default><b>She searches for them
+to this day.</b></Default>
+
+c0000436
+00:20:42.280 --> 00:20:43.660 line:90% align:center
+<Default><b>To encourage applicants,</b></Default>
+
+c0000437
+00:20:43.740 --> 00:20:45.830 line:90% align:center
+<Default><b>she swore to grant
+a special privilege</b></Default>
+
+c0000438
+00:20:45.910 --> 00:20:48.960 line:90% align:center
+<Default><b>to anyone who achieved
+the rank of first-class mage.</b></Default>
+
+c0000439
+00:20:50.040 --> 00:20:52.590 line:90% align:center
+<Default><b>She will grant them
+any one spell they desire.</b></Default>
+
+c0000440
+00:20:54.920 --> 00:20:56.670 line:90% align:center
+<Default><b>Serie is a living grimoire</b></Default>
+
+c0000441
+00:20:56.760 --> 00:20:59.760 line:90% align:center
+<Default><b>who knows nearly every spell
+in humanity's history.</b></Default>
+
+c0000442
+00:21:00.220 --> 00:21:01.550 line:90% align:center
+<Default><b>Of all the creatures
+in our world,</b></Default>
+
+c0000443
+00:21:01.640 --> 00:21:03.390 line:90% align:center
+<Default><b>she is the closest we have</b></Default>
+
+c0000444
+00:21:03.470 --> 00:21:05.810 line:90% align:center
+<Default><b>to the all-knowing
+and all-powerful Goddess.</b></Default>
+
+c0000445
+00:21:06.310 --> 00:21:08.810 line:90% align:center
+<Default><b>With her privilege, one could
+acquire massive wealth,</b></Default>
+
+c0000446
+00:21:09.310 --> 00:21:11.060 line:90% align:center
+<Default><b>cure the gravest of diseases,</b></Default>
+
+c0000447
+00:21:11.480 --> 00:21:13.270 line:90% align:center
+<Default><b>or gain overwhelming power.</b></Default>
+
+c0000448
+00:21:14.690 --> 00:21:17.280 line:90% align:center
+<Default><b>To us mages,
+this promise is equivalent</b></Default>
+
+c0000449
+00:21:17.360 --> 00:21:20.110 line:90% align:center
+<Default><b>to having the wish
+of our wildest dreams granted.</b></Default>
+
+c0000450
+00:21:21.110 --> 00:21:22.360 line:90% align:center
+<Default><b>People are simple.</b></Default>
+
+c0000451
+00:21:22.950 --> 00:21:25.830 line:90% align:center
+<Default><b>Driven by greed,
+modern first-class mages</b></Default>
+
+c0000452
+00:21:25.910 --> 00:21:28.210 line:90% align:center
+<Default><b>forfeit their humanity
+for this prize.</b></Default>
+
+c0000453
+00:21:29.210 --> 00:21:31.120 line:90% align:center
+<Default><b>The privilege is that valuable.</b></Default>
+
+c0000454
+00:21:31.960 --> 00:21:33.000 line:90% align:center
+<Default><b>[FRIEREN]
+I see.</b></Default>
+
+c0000455
+00:21:33.170 --> 00:21:34.960 line:90% align:center
+<Default><b>What utter nonsense.</b></Default>
+
+c0000456
+00:21:35.170 --> 00:21:37.800 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000457
+00:21:39.090 --> 00:21:41.550 line:90% align:center
+<Default><b>Denken, people like you
+who don't care</b></Default>
+
+c0000458
+00:21:41.630 --> 00:21:43.340 line:90% align:center
+<Default><b>about the privilege
+are the minority.</b></Default>
+
+c0000459
+00:21:45.760 --> 00:21:47.020 line:90% align:center
+<Default><b>Let us begin.</b></Default>
+
+c0000460
+00:21:47.310 --> 00:21:49.770 line:90% align:center
+<Default><b>One minute.
+That's all I need, old man.</b></Default>
+
+c0000461
+00:21:50.190 --> 00:21:52.310 line:90% align:center
+<Default><b>Plenty of time
+to kill both of them.</b></Default>
+
+c0000462
+00:21:52.560 --> 00:21:54.610 line:90% align:center
+<Default><b>[DENKEN] Don't make me
+say it again, Richter.</b></Default>
+
+c0000463
+00:21:55.310 --> 00:21:56.860 line:90% align:center
+<Default><b>Those girls are children.</b></Default>
+
+c0000464
+00:21:57.230 --> 00:21:59.820 line:90% align:center
+<Default><b>We're going to put them down
+for a three-hour nap.</b></Default>
+
+c0000465
+00:22:00.200 --> 00:22:01.740 line:90% align:center
+<Default><b>You can handle babysitting.</b></Default>
+
+c0000466
+00:22:02.320 --> 00:22:03.410 line:90% align:center
+<Default><b>What a joke.</b></Default>
+
+c0000467
+00:22:07.830 --> 00:22:10.330 line:90% align:center
+<Default><b>I shall keep
+their caretaker occupied.</b></Default>
+
+c0000468
+00:22:10.660 --> 00:22:12.210 line:90% align:center
+<Default><b>That should satisfy you.</b></Default>
+
+c0000469
+00:22:12.960 --> 00:22:14.170 line:90% align:center
+<Default><b>You old fool.</b></Default>
+
+c0000470
+00:22:15.540 --> 00:22:16.840 line:90% align:center
+<Default><b>Now, Bargland.</b></Default>
+
+c0000471
+00:22:17.000 --> 00:22:19.130 line:90% align:center
+<Default><b>-[rumbling]
+-[gasps]</b></Default>
+
+c0000472
+00:22:19.380 --> 00:22:20.380 line:90% align:center
+<Default><b>[crackling]</b></Default>
+
+c0000473
+00:22:21.010 --> 00:22:22.340 line:90% align:center
+<Default><b>-[thudding]
+-[both gasp]</b></Default>
+
+c0000474
+00:22:23.800 --> 00:22:25.510 line:90% align:center
+<Default><b>[thudding]</b></Default>
+
+c0000475
+00:22:28.560 --> 00:22:30.890 line:90% align:center
+<Default><b>-[rumbling]
+-[birds chirping]</b></Default>
+
+c0000476
+00:22:30.980 --> 00:22:35.270 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000477
+00:22:35.480 --> 00:22:38.820 line:90% align:center
+<Default><b>I find the young to be
+far too hot-blooded.</b></Default>
+
+c0000478
+00:22:38.980 --> 00:22:45.360 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000479
+00:24:20.290 --> 00:24:22.380 line:90% align:center
+<Default><b>[DENKEN]
+You inexperienced fool.</b></Default>
+
+c0000480
+00:24:22.670 --> 00:24:23.710 line:90% align:center
+<Default><b>[RICHTER]
+Give me a break.</b></Default>
+
+c0000481
+00:24:23.800 --> 00:24:25.460 line:90% align:center
+<Default><b>[GENAU] That old man
+doesn't hold back.</b></Default>
+
+c0000482
+00:24:25.630 --> 00:24:26.760 line:90% align:center
+<Default><b>[SERIE]
+In the world of magic,</b></Default>
+
+c0000483
+00:24:26.840 --> 00:24:29.720 line:90% align:center
+<Default><b>the whole of creation
+can be turned upside down.</b></Default>
+

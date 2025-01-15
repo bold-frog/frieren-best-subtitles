@@ -17,7 +17,7 @@ def parsetime(t):
 
 
 def generate(episode):
-    with open(f'Subtitles/Crunchyroll/[SubsPlease] Sousou no Frieren - {episode:02d} [WEB-DL 1080p x264 DDP].vtt', 'rt') as vtt:
+    with open(f'crunchyroll/Sousou no Frieren S01E{episode:02d}.vtt', 'rt') as vtt:
         with Popen(['ffmpeg', '-i', '-', '-f', 'ass', 'pipe:1'], stdin=PIPE, stdout=PIPE, stderr=DEVNULL, encoding='UTF-8') as ffmpeg:
             ffmpeg.stdin.write('WEBVTT\n')
             content = False
@@ -27,15 +27,15 @@ def generate(episode):
                 elif line == '}\n':
                     content = True
             ass_dialogs = filter(lambda line: line.startswith('Dialogue: '), ffmpeg.communicate()[0].split('\n'))
-    with Popen(['ffmpeg', '-i', f'[SubsPlease] Sousou no Frieren - {episode:02d} [WEB-DL 1080p x264 DDP].mkv', '-map', '0:s:3', '-f', 'ass', 'pipe:1'], stdin=DEVNULL, stdout=PIPE, stderr=PIPE, encoding='UTF-8') as ffmpeg:
-        ass_orig = ffmpeg.communicate()[0].split('\n')
+    with open(f'9volt/Sousou no Frieren S01E{episode:02d}.ass', 'rt') as ass:
+        ass_orig = [line.rstrip('\n') for line in ass.readlines()]
     italics = []
     for line in ass_orig:
         if line.startswith('Dialogue: '):
             fields = line.split(',')
             if fields[3] == 'Italics':
                 italics.append((parsetime(fields[1]), parsetime(fields[2])))
-    with open(f'Subtitles/Out/[SubsPlease] Sousou no Frieren - {episode:02d} [WEB-DL 1080p x264 DDP].ass', 'wt') as out:
+    with open(f'out/Sousou no Frieren S01E{episode:02d}.ass', 'wt') as out:
         insert = False
         for line in ass_orig:
             if line.startswith('Dialogue: '):
@@ -67,6 +67,6 @@ def generate(episode):
 
 
 if __name__ == '__main__':
-    os.chdir(Path(sys.argv[0]).resolve().parent.parent.parent)
+    os.chdir(Path(sys.argv[0]).resolve().parent)
     for i in range(1, 29):
         generate(i)

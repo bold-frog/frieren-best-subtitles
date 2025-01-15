@@ -1,0 +1,2221 @@
+WEBVTT
+
+STYLE
+::cue(Default) {
+color: #ffffffff;
+font-family: "Arial", sans-serif;
+font-size: 020px;
+text-shadow: #000000ff -2px 0px 2px, #000000ff 0px 2px 2px, #000000ff 0px -2px 2px, #000000ff 2px 0px 2px;
+background-color: #00000000;
+}
+
+c0000000
+00:00:01.000 --> 00:00:05.380 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000001
+00:00:05.550 --> 00:00:07.010 line:90% align:center
+<Default><b>Now that the sun has set,</b></Default>
+
+c0000002
+00:00:07.170 --> 00:00:09.090 line:90% align:center
+<Default><b>the first test
+is officially over.</b></Default>
+
+c0000003
+00:00:09.760 --> 00:00:12.600 line:90% align:center
+<Default><b>Six parties
+and 18 individuals remain</b></Default>
+
+c0000004
+00:00:12.680 --> 00:00:14.220 line:90% align:center
+<Default><b>and will move
+to the next trial.</b></Default>
+
+c0000005
+00:00:15.390 --> 00:00:17.980 line:90% align:center
+<Default><b>The second test
+will take place in three days.</b></Default>
+
+c0000006
+00:00:18.600 --> 00:00:20.650 line:90% align:center
+<Default><b>You will be informed
+of the details later.</b></Default>
+
+c0000007
+00:00:22.110 --> 00:00:24.110 line:90% align:center
+<Default><b>That is all.
+You're dismissed.</b></Default>
+
+c0000008
+00:02:07.420 --> 00:02:08.630 line:90% align:center
+<Default><b>[Stark sighs]</b></Default>
+
+c0000009
+00:02:11.420 --> 00:02:12.840 line:90% align:center
+<Default><b>Already evening?</b></Default>
+
+c0000010
+00:02:13.630 --> 00:02:15.140 line:90% align:center
+<Default><b>Guess at this point
+there's no harm</b></Default>
+
+c0000011
+00:02:15.220 --> 00:02:16.510 line:90% align:center
+<Default><b>lazing around a bit.</b></Default>
+
+c0000012
+00:02:16.970 --> 00:02:18.140 line:90% align:center
+<Default><b>[knocking on door]</b></Default>
+
+c0000013
+00:02:18.600 --> 00:02:19.600 line:90% align:center
+<Default><b>Huh.</b></Default>
+
+c0000014
+00:02:21.020 --> 00:02:22.180 line:90% align:center
+<Default><b>[knocking on door]</b></Default>
+
+c0000015
+00:02:25.150 --> 00:02:26.270 line:90% align:center
+<Default><b>What's their deal?</b></Default>
+
+c0000016
+00:02:27.020 --> 00:02:28.230 line:90% align:center
+<Default><b>[knocking on door]</b></Default>
+
+c0000017
+00:02:30.030 --> 00:02:31.150 line:90% align:center
+<Default><b>[STARK]
+I'm coming!</b></Default>
+
+c0000018
+00:02:38.870 --> 00:02:39.990 line:90% align:center
+<Default><b>[door creaking]</b></Default>
+
+c0000019
+00:02:42.500 --> 00:02:44.580 line:90% align:center
+<Default><b>[gasps] Fern, you're...</b></Default>
+
+c0000020
+00:02:44.960 --> 00:02:45.880 line:90% align:center
+<Default><b>You're supposed to be</b></Default>
+
+c0000021
+00:02:45.960 --> 00:02:47.750 line:90% align:center
+<Default><b>at the first-class mage
+exam right now.</b></Default>
+
+c0000022
+00:02:48.540 --> 00:02:50.630 line:90% align:center
+<Default><b>Thanks for telling me
+what I'm supposed to do,</b></Default>
+
+c0000023
+00:02:50.710 --> 00:02:52.300 line:90% align:center
+<Default><b>but the first test is complete.</b></Default>
+
+c0000024
+00:02:53.170 --> 00:02:55.260 line:90% align:center
+<Default><b>You look rumpled.</b></Default>
+
+c0000025
+00:02:55.510 --> 00:02:56.760 line:90% align:center
+<Default><b>Were you sleeping?</b></Default>
+
+c0000026
+00:02:57.050 --> 00:02:57.970 line:90% align:center
+<Default><b>Huh?</b></Default>
+
+c0000027
+00:02:58.050 --> 00:02:58.970 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000028
+00:02:59.930 --> 00:03:01.020 line:90% align:center
+<Default><b>Don't deny it.</b></Default>
+
+c0000029
+00:03:01.770 --> 00:03:03.060 line:90% align:center
+<Default><b>Huh.</b></Default>
+
+c0000030
+00:03:04.140 --> 00:03:05.560 line:90% align:center
+<Default><b>Did you stay up late?</b></Default>
+
+c0000031
+00:03:07.600 --> 00:03:08.650 line:90% align:center
+<Default><b>Maybe.</b></Default>
+
+c0000032
+00:03:08.820 --> 00:03:10.110 line:90% align:center
+<Default><b>[FERN] And what else?</b></Default>
+
+c0000033
+00:03:10.780 --> 00:03:13.240 line:90% align:center
+<Default><b>I might have drunk some juice
+as a midnight snack.</b></Default>
+
+c0000034
+00:03:13.530 --> 00:03:14.780 line:90% align:center
+<Default><b>-[chuckles]
+-[groans]</b></Default>
+
+c0000035
+00:03:15.070 --> 00:03:17.280 line:90% align:center
+<Default><b>I'm sorry! I was thirsty!</b></Default>
+
+c0000036
+00:03:17.490 --> 00:03:20.120 line:90% align:center
+<Default><b>Uh-oh. You've made her angry.</b></Default>
+
+c0000037
+00:03:20.870 --> 00:03:22.160 line:90% align:center
+<Default><b>Please, Mistress Frieren.</b></Default>
+
+c0000038
+00:03:22.240 --> 00:03:24.000 line:90% align:center
+<Default><b>You woke up mere moments ago.</b></Default>
+
+c0000039
+00:03:24.410 --> 00:03:25.870 line:90% align:center
+<Default><b>[FRIEREN]
+Caught in the crossfire.</b></Default>
+
+c0000040
+00:03:27.040 --> 00:03:28.170 line:90% align:center
+<Default><b>[grunts]</b></Default>
+
+c0000041
+00:03:29.580 --> 00:03:32.550 line:90% align:center
+<Default><b>Suddenly, pleasing Fern's
+on the top of our to-do list.</b></Default>
+
+c0000042
+00:03:32.800 --> 00:03:34.550 line:90% align:center
+<Default><b>Do you have any good ideas?</b></Default>
+
+c0000043
+00:03:35.220 --> 00:03:37.340 line:90% align:center
+<Default><b>A tasty meal
+typically does the trick.</b></Default>
+
+c0000044
+00:03:37.630 --> 00:03:38.930 line:90% align:center
+<Default><b>And where do we get that?</b></Default>
+
+c0000045
+00:03:39.220 --> 00:03:40.600 line:90% align:center
+<Default><b>It's a bit expensive,</b></Default>
+
+c0000046
+00:03:41.010 --> 00:03:43.350 line:90% align:center
+<Default><b>but I found a nice place
+when I visited here before</b></Default>
+
+c0000047
+00:03:43.430 --> 00:03:44.680 line:90% align:center
+<Default><b>with Himmel and the others.</b></Default>
+
+c0000048
+00:03:45.020 --> 00:03:47.810 line:90% align:center
+<Default><b>[STARK] Yeah, but that had
+to have been over 80 years ago.</b></Default>
+
+c0000049
+00:03:48.400 --> 00:03:49.520 line:90% align:center
+<Default><b>Will it still be there?</b></Default>
+
+c0000050
+00:03:51.520 --> 00:03:54.400 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000051
+00:04:07.000 --> 00:04:08.250 line:90% align:center
+<Default><b>My!</b></Default>
+
+c0000052
+00:04:08.370 --> 00:04:10.250 line:90% align:center
+<Default><b>It shines just like new!</b></Default>
+
+c0000053
+00:04:10.330 --> 00:04:12.250 line:90% align:center
+<Default><b>I told you that
+it was an easy fix.</b></Default>
+
+c0000054
+00:04:13.000 --> 00:04:16.510 line:90% align:center
+<Default><b>[OLD WOMAN 22A] As always,
+thank you very much, Richter.</b></Default>
+
+c0000055
+00:04:16.630 --> 00:04:17.670 line:90% align:center
+<Default><b>[RICHTER] Sure thing.</b></Default>
+
+c0000056
+00:04:17.760 --> 00:04:20.340 line:90% align:center
+<Default><b>[OLD WOMAN 22A] As for payment,
+I thought you'd enjoy these.</b></Default>
+
+c0000057
+00:04:20.890 --> 00:04:23.390 line:90% align:center
+<Default><b>-Hm?
+-I'll see you soon, dear.</b></Default>
+
+c0000058
+00:04:25.890 --> 00:04:28.560 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000059
+00:04:28.730 --> 00:04:29.770 line:90% align:center
+<Default><b>[sighs]</b></Default>
+
+c0000060
+00:04:30.310 --> 00:04:31.730 line:90% align:center
+<Default><b>[RICHTER]
+Grandma, you do realize</b></Default>
+
+c0000061
+00:04:31.810 --> 00:04:33.400 line:90% align:center
+<Default><b>I'm not a child anymore,
+don't you?</b></Default>
+
+c0000062
+00:04:33.820 --> 00:04:35.480 line:90% align:center
+<Default><b>I've been a grown man
+for some time.</b></Default>
+
+c0000063
+00:04:36.190 --> 00:04:39.570 line:90% align:center
+<Default><b>[OLD WOMAN 22A] To an old lady,
+you're still a sweet, baby boy.</b></Default>
+
+c0000064
+00:04:40.070 --> 00:04:41.910 line:90% align:center
+<Default><b>Grown-ups like treats, too.</b></Default>
+
+c0000065
+00:04:43.780 --> 00:04:44.780 line:90% align:center
+<Default><b>Hm.</b></Default>
+
+c0000066
+00:04:44.870 --> 00:04:48.290 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000067
+00:04:48.370 --> 00:04:49.370 line:90% align:center
+<Default><b>Hm.</b></Default>
+
+c0000068
+00:04:49.500 --> 00:04:53.460 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000069
+00:04:53.920 --> 00:04:56.630 line:90% align:center
+<Default><b>Sorry, you two,
+but the shop is closed.</b></Default>
+
+c0000070
+00:04:57.220 --> 00:04:58.720 line:90% align:center
+<Default><b>A demented old man dragged me</b></Default>
+
+c0000071
+00:04:58.800 --> 00:05:00.680 line:90% align:center
+<Default><b>into a fistfight
+over a silly bird.</b></Default>
+
+c0000072
+00:05:01.300 --> 00:05:03.180 line:90% align:center
+<Default><b>I need a while
+to rest and recover.</b></Default>
+
+c0000073
+00:05:04.180 --> 00:05:07.140 line:90% align:center
+<Default><b>My, it sounds like you've
+had it awfully rough, Richter.</b></Default>
+
+c0000074
+00:05:07.390 --> 00:05:09.810 line:90% align:center
+<Default><b>Why don't you relax
+over dinner with us?</b></Default>
+
+c0000075
+00:05:09.890 --> 00:05:12.150 line:90% align:center
+<Default><b>I've been to a good restaurant
+around here,</b></Default>
+
+c0000076
+00:05:12.230 --> 00:05:14.020 line:90% align:center
+<Default><b>but Laufen and I
+don't know the area</b></Default>
+
+c0000077
+00:05:14.110 --> 00:05:15.360 line:90% align:center
+<Default><b>well enough to find it.</b></Default>
+
+c0000078
+00:05:16.650 --> 00:05:18.190 line:90% align:center
+<Default><b>You're in on this, too, Laufen?</b></Default>
+
+c0000079
+00:05:18.610 --> 00:05:20.150 line:90% align:center
+<Default><b>I'm shocked to see you
+with Denken.</b></Default>
+
+c0000080
+00:05:20.950 --> 00:05:22.660 line:90% align:center
+<Default><b>And where did you
+buy those pastries?</b></Default>
+
+c0000081
+00:05:23.280 --> 00:05:25.080 line:90% align:center
+<Default><b>Actually, the old man
+bought them for me.</b></Default>
+
+c0000082
+00:05:25.240 --> 00:05:26.290 line:90% align:center
+<Default><b>I'm not sharing.</b></Default>
+
+c0000083
+00:05:26.660 --> 00:05:29.210 line:90% align:center
+<Default><b>In a matter of hours,
+you've become his grandchild.</b></Default>
+
+c0000084
+00:05:29.500 --> 00:05:30.710 line:90% align:center
+<Default><b>[sighs] Go away.</b></Default>
+
+c0000085
+00:05:31.170 --> 00:05:32.830 line:90% align:center
+<Default><b>We're no longer party members.</b></Default>
+
+c0000086
+00:05:34.330 --> 00:05:37.300 line:90% align:center
+<Default><b>You don't know how to get along
+in this world, do you?</b></Default>
+
+c0000087
+00:05:37.920 --> 00:05:40.470 line:90% align:center
+<Default><b>If you intend to continue
+living as a mage,</b></Default>
+
+c0000088
+00:05:40.970 --> 00:05:44.430 line:90% align:center
+<Default><b>it would most certainly behoove
+you to remain on my good side.</b></Default>
+
+c0000089
+00:05:45.100 --> 00:05:47.140 line:90% align:center
+<Default><b>There are plenty of great
+restaurants around.</b></Default>
+
+c0000090
+00:05:47.560 --> 00:05:48.640 line:90% align:center
+<Default><b>Take your pick.</b></Default>
+
+c0000091
+00:05:48.980 --> 00:05:50.520 line:90% align:center
+<Default><b>[DENKEN] Before my wife passed,</b></Default>
+
+c0000092
+00:05:51.890 --> 00:05:53.400 line:90% align:center
+<Default><b>we visited a restaurant here</b></Default>
+
+c0000093
+00:05:53.480 --> 00:05:55.230 line:90% align:center
+<Default><b>that served
+the most delicious food.</b></Default>
+
+c0000094
+00:05:55.900 --> 00:05:57.860 line:90% align:center
+<Default><b>I have never forgotten
+the taste.</b></Default>
+
+c0000095
+00:06:01.320 --> 00:06:02.530 line:90% align:center
+<Default><b>You better be paying.</b></Default>
+
+c0000096
+00:06:03.280 --> 00:06:04.740 line:90% align:center
+<Default><b>Well, of course I am.</b></Default>
+
+c0000097
+00:06:04.990 --> 00:06:07.780 line:90% align:center
+<Default><b>I always take care of those
+on my good side!</b></Default>
+
+c0000098
+00:06:09.620 --> 00:06:13.420 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000099
+00:06:14.620 --> 00:06:16.920 line:90% align:center
+<Default><b>-[Cat 22B meows]
+-Huh.</b></Default>
+
+c0000100
+00:06:17.420 --> 00:06:20.420 line:90% align:center
+<Default><b>[meowing]</b></Default>
+
+c0000101
+00:06:25.510 --> 00:06:26.510 line:90% align:center
+<Default><b>Huh.</b></Default>
+
+c0000102
+00:06:26.600 --> 00:06:29.470 line:90% align:center
+<Default><b>[meowing]</b></Default>
+
+c0000103
+00:06:32.560 --> 00:06:33.690 line:90% align:center
+<Default><b>[hissing]</b></Default>
+
+c0000104
+00:06:36.810 --> 00:06:38.690 line:90% align:center
+<Default><b>-[scoffs]
+-[UBEL] Hey, four-eyes.</b></Default>
+
+c0000105
+00:06:38.770 --> 00:06:39.770 line:90% align:center
+<Default><b>Huh.</b></Default>
+
+c0000106
+00:06:40.530 --> 00:06:41.610 line:90% align:center
+<Default><b>Joy of joys.</b></Default>
+
+c0000107
+00:06:41.900 --> 00:06:43.570 line:90% align:center
+<Default><b>It's nice to finally meet you.</b></Default>
+
+c0000108
+00:06:43.950 --> 00:06:45.610 line:90% align:center
+<Default><b>So, you give the clone
+some time off</b></Default>
+
+c0000109
+00:06:45.700 --> 00:06:47.280 line:90% align:center
+<Default><b>when you're
+strolling around town?</b></Default>
+
+c0000110
+00:06:47.530 --> 00:06:48.950 line:90% align:center
+<Default><b>If you must make small talk,</b></Default>
+
+c0000111
+00:06:49.120 --> 00:06:50.700 line:90% align:center
+<Default><b>can we at least
+continue walking?</b></Default>
+
+c0000112
+00:06:50.950 --> 00:06:52.160 line:90% align:center
+<Default><b>[UBEL] Sure, that's fine.</b></Default>
+
+c0000113
+00:06:52.580 --> 00:06:55.040 line:90% align:center
+<Default><b>But if you try to lose me,
+I might have to kill you.</b></Default>
+
+c0000114
+00:06:57.460 --> 00:06:59.460 line:90% align:center
+<Default><b>Speaking of, I have a question.</b></Default>
+
+c0000115
+00:07:00.460 --> 00:07:01.460 line:90% align:center
+<Default><b>Go on.</b></Default>
+
+c0000116
+00:07:02.300 --> 00:07:03.550 line:90% align:center
+<Default><b>You're a killer.</b></Default>
+
+c0000117
+00:07:04.670 --> 00:07:05.970 line:90% align:center
+<Default><b>And you don't feel
+the slightest bit</b></Default>
+
+c0000118
+00:07:06.050 --> 00:07:07.430 line:90% align:center
+<Default><b>of guilt taking a life.</b></Default>
+
+c0000119
+00:07:09.680 --> 00:07:11.470 line:90% align:center
+<Default><b>So, why didn't you
+eliminate Wirbel?</b></Default>
+
+c0000120
+00:07:12.140 --> 00:07:13.480 line:90% align:center
+<Default><b>You had every opportunity.</b></Default>
+
+c0000121
+00:07:14.810 --> 00:07:16.270 line:90% align:center
+<Default><b>You were watching all that?</b></Default>
+
+c0000122
+00:07:16.730 --> 00:07:18.730 line:90% align:center
+<Default><b>Guess nothing gets
+past you, does it?</b></Default>
+
+c0000123
+00:07:21.150 --> 00:07:22.150 line:90% align:center
+<Default><b>Hm.</b></Default>
+
+c0000124
+00:07:22.610 --> 00:07:25.400 line:90% align:center
+<Default><b>It's hard to explain,
+so try to stay with me.</b></Default>
+
+c0000125
+00:07:26.200 --> 00:07:27.370 line:90% align:center
+<Default><b>How interesting.</b></Default>
+
+c0000126
+00:07:27.530 --> 00:07:29.870 line:90% align:center
+<Default><b>Your hands are as drenched
+in blood as they could be,</b></Default>
+
+c0000127
+00:07:30.030 --> 00:07:32.790 line:90% align:center
+<Default><b>yet at the end of the day,
+you want to remain human.</b></Default>
+
+c0000128
+00:07:34.080 --> 00:07:35.370 line:90% align:center
+<Default><b>You nailed me.</b></Default>
+
+c0000129
+00:07:35.710 --> 00:07:38.170 line:90% align:center
+<Default><b>I use this time
+to prepare myself to kill.</b></Default>
+
+c0000130
+00:07:40.130 --> 00:07:42.170 line:90% align:center
+<Default><b>I couldn't help
+but empathize with him.</b></Default>
+
+c0000131
+00:07:43.300 --> 00:07:44.460 line:90% align:center
+<Default><b>He made me want to put off</b></Default>
+
+c0000132
+00:07:44.550 --> 00:07:46.550 line:90% align:center
+<Default><b>delivering that
+final blow, too.</b></Default>
+
+c0000133
+00:07:47.840 --> 00:07:48.840 line:90% align:center
+<Default><b>[LAND] Hm.</b></Default>
+
+c0000134
+00:07:50.300 --> 00:07:51.310 line:90% align:center
+<Default><b>What has she done?</b></Default>
+
+c0000135
+00:07:51.970 --> 00:07:52.970 line:90% align:center
+<Default><b>I can't move.</b></Default>
+
+c0000136
+00:07:53.720 --> 00:07:55.180 line:90% align:center
+<Default><b>This is Sorganeil,</b></Default>
+
+c0000137
+00:07:55.560 --> 00:07:58.060 line:90% align:center
+<Default><b>the nifty binding spell
+I picked up from Wirbel.</b></Default>
+
+c0000138
+00:07:58.150 --> 00:08:01.320 line:90% align:center
+<Default><b>The type of magic
+a mage specializes in</b></Default>
+
+c0000139
+00:08:01.400 --> 00:08:03.650 line:90% align:center
+<Default><b>has everything to do
+with the life they've led</b></Default>
+
+c0000140
+00:08:03.730 --> 00:08:04.980 line:90% align:center
+<Default><b>and the person they are.</b></Default>
+
+c0000141
+00:08:06.950 --> 00:08:09.370 line:90% align:center
+<Default><b>Empathy has always been
+my secret weapon.</b></Default>
+
+c0000142
+00:08:10.240 --> 00:08:11.530 line:90% align:center
+<Default><b>If I can relate to somebody,</b></Default>
+
+c0000143
+00:08:11.620 --> 00:08:13.790 line:90% align:center
+<Default><b>then I can pick up
+their spells in a heartbeat.</b></Default>
+
+c0000144
+00:08:13.870 --> 00:08:16.710 line:90% align:center
+<Default><b>Hence my frustration with
+closed-book types like you.</b></Default>
+
+c0000145
+00:08:17.500 --> 00:08:19.540 line:90% align:center
+<Default><b>Your clones intrigue me,
+four-eyes.</b></Default>
+
+c0000146
+00:08:19.620 --> 00:08:21.880 line:90% align:center
+<Default><b>Not only are they
+perfect replicas of yourself,</b></Default>
+
+c0000147
+00:08:21.960 --> 00:08:23.460 line:90% align:center
+<Default><b>but they're capable
+of every punch</b></Default>
+
+c0000148
+00:08:23.550 --> 00:08:24.590 line:90% align:center
+<Default><b>and pull you are.</b></Default>
+
+c0000149
+00:08:24.750 --> 00:08:26.590 line:90% align:center
+<Default><b>I'm just dying to know
+what kind of life</b></Default>
+
+c0000150
+00:08:26.670 --> 00:08:28.590 line:90% align:center
+<Default><b>the ever-stoic Land has led.</b></Default>
+
+c0000151
+00:08:29.220 --> 00:08:30.430 line:90% align:center
+<Default><b>So, tell me.</b></Default>
+
+c0000152
+00:08:32.100 --> 00:08:33.470 line:90% align:center
+<Default><b>Ah, you're one of those.</b></Default>
+
+c0000153
+00:08:34.180 --> 00:08:37.140 line:90% align:center
+<Default><b>A mage who relies on instinct
+rather than technical skill.</b></Default>
+
+c0000154
+00:08:37.680 --> 00:08:39.600 line:90% align:center
+<Default><b>You cast these spells
+without understanding</b></Default>
+
+c0000155
+00:08:39.690 --> 00:08:40.940 line:90% align:center
+<Default><b>the principles behind them.</b></Default>
+
+c0000156
+00:08:41.060 --> 00:08:42.940 line:90% align:center
+<Default><b>Instead, you feel the magic.</b></Default>
+
+c0000157
+00:08:43.480 --> 00:08:44.480 line:90% align:center
+<Default><b>[chuckles]</b></Default>
+
+c0000158
+00:08:45.400 --> 00:08:47.240 line:90% align:center
+<Default><b>Laugh...but I despise</b></Default>
+
+c0000159
+00:08:47.320 --> 00:08:49.070 line:90% align:center
+<Default><b>dim-witted people
+like yourself.</b></Default>
+
+c0000160
+00:08:50.160 --> 00:08:52.240 line:90% align:center
+<Default><b>So, are you going
+to let me in, or not?</b></Default>
+
+c0000161
+00:08:52.660 --> 00:08:53.990 line:90% align:center
+<Default><b>Put in the simplest of terms,</b></Default>
+
+c0000162
+00:08:54.080 --> 00:08:56.410 line:90% align:center
+<Default><b>I will not, because
+I do not like you.</b></Default>
+
+c0000163
+00:08:59.250 --> 00:09:01.380 line:90% align:center
+<Default><b>I would be careful
+how you choose to proceed.</b></Default>
+
+c0000164
+00:09:02.170 --> 00:09:03.750 line:90% align:center
+<Default><b>I don't care either way,</b></Default>
+
+c0000165
+00:09:03.840 --> 00:09:05.960 line:90% align:center
+<Default><b>but you can't relate
+to me if you kill me.</b></Default>
+
+c0000166
+00:09:09.380 --> 00:09:10.590 line:90% align:center
+<Default><b>[magic detached]</b></Default>
+
+c0000167
+00:09:12.890 --> 00:09:14.390 line:90% align:center
+<Default><b>Eh. Run along.</b></Default>
+
+c0000168
+00:09:15.050 --> 00:09:15.930 line:90% align:center
+<Default><b>You can try to hide,</b></Default>
+
+c0000169
+00:09:16.010 --> 00:09:18.180 line:90% align:center
+<Default><b>but I already caught
+a sliver of the real you.</b></Default>
+
+c0000170
+00:09:18.680 --> 00:09:19.680 line:90% align:center
+<Default><b>[LAND] Oh?</b></Default>
+
+c0000171
+00:09:19.890 --> 00:09:21.600 line:90% align:center
+<Default><b>I think I'd like to see more.</b></Default>
+
+c0000172
+00:09:25.360 --> 00:09:27.610 line:90% align:center
+<Default><b>Where are you headed,
+oh, so obstinately?</b></Default>
+
+c0000173
+00:09:28.190 --> 00:09:29.200 line:90% align:center
+<Default><b>Who knows?</b></Default>
+
+c0000174
+00:09:29.740 --> 00:09:31.030 line:90% align:center
+<Default><b>Please don't follow me.</b></Default>
+
+c0000175
+00:09:32.700 --> 00:09:33.780 line:90% align:center
+<Default><b>[DENKEN]
+This is it.</b></Default>
+
+c0000176
+00:09:34.450 --> 00:09:36.240 line:90% align:center
+<Default><b>Well, you have
+a good palate, Denken.</b></Default>
+
+c0000177
+00:09:36.330 --> 00:09:37.330 line:90% align:center
+<Default><b>Superb choice.</b></Default>
+
+c0000178
+00:09:37.580 --> 00:09:40.080 line:90% align:center
+<Default><b>This place is by far
+the best restaurant in town.</b></Default>
+
+c0000179
+00:09:40.460 --> 00:09:41.500 line:90% align:center
+<Default><b>I come often.</b></Default>
+
+c0000180
+00:09:41.960 --> 00:09:43.420 line:90% align:center
+<Default><b>My wife and I ate here</b></Default>
+
+c0000181
+00:09:43.500 --> 00:09:46.300 line:90% align:center
+<Default><b>what must've been
+50 years ago now.</b></Default>
+
+c0000182
+00:09:47.340 --> 00:09:49.300 line:90% align:center
+<Default><b>It looks like
+it hasn't changed a bit.</b></Default>
+
+c0000183
+00:09:51.220 --> 00:09:53.470 line:90% align:center
+<Default><b>Time is a mysterious thing.</b></Default>
+
+c0000184
+00:09:54.300 --> 00:09:56.180 line:90% align:center
+<Default><b>[door creaking]</b></Default>
+
+c0000185
+00:09:58.350 --> 00:10:00.140 line:90% align:center
+<Default><b>-[FERN] Are you kidding?
+-Hm?</b></Default>
+
+c0000186
+00:10:00.310 --> 00:10:02.190 line:90% align:center
+<Default><b>You're absolutely sure
+I can order</b></Default>
+
+c0000187
+00:10:02.270 --> 00:10:03.770 line:90% align:center
+<Default><b>as many desserts as I want?</b></Default>
+
+c0000188
+00:10:03.940 --> 00:10:04.940 line:90% align:center
+<Default><b>Of course.</b></Default>
+
+c0000189
+00:10:05.400 --> 00:10:07.400 line:90% align:center
+<Default><b>I suppose that great minds
+think alike.</b></Default>
+
+c0000190
+00:10:07.690 --> 00:10:09.730 line:90% align:center
+<Default><b>Everything sounds so amazing!</b></Default>
+
+c0000191
+00:10:09.940 --> 00:10:11.200 line:90% align:center
+<Default><b>[FRIEREN] I recommend this.</b></Default>
+
+c0000192
+00:10:11.780 --> 00:10:13.660 line:90% align:center
+<Default><b>It's not my birthday
+or anything.</b></Default>
+
+c0000193
+00:10:13.740 --> 00:10:15.320 line:90% align:center
+<Default><b>Is it wrong for me to indulge?</b></Default>
+
+c0000194
+00:10:15.820 --> 00:10:17.120 line:90% align:center
+<Default><b>Oh, leave them be.</b></Default>
+
+c0000195
+00:10:17.280 --> 00:10:18.830 line:90% align:center
+<Default><b>It looks like
+they're having fun.</b></Default>
+
+c0000196
+00:10:19.500 --> 00:10:21.910 line:90% align:center
+<Default><b>Meals should be times of joy,
+not stress.</b></Default>
+
+c0000197
+00:10:22.460 --> 00:10:24.420 line:90% align:center
+<Default><b>And we're all here
+for the same reason.</b></Default>
+
+c0000198
+00:10:26.210 --> 00:10:28.000 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000199
+00:10:28.250 --> 00:10:29.670 line:90% align:center
+<Default><b>Ahh!</b></Default>
+
+c0000200
+00:10:31.090 --> 00:10:32.420 line:90% align:center
+<Default><b>[chuckles]</b></Default>
+
+c0000201
+00:10:33.720 --> 00:10:34.880 line:90% align:center
+<Default><b>[excited]</b></Default>
+
+c0000202
+00:10:35.970 --> 00:10:38.470 line:90% align:center
+<Default><b>At long last,
+it's time to stuff my face.</b></Default>
+
+c0000203
+00:10:38.560 --> 00:10:39.850 line:90% align:center
+<Default><b>[STARK] You're not
+playing around, huh?</b></Default>
+
+c0000204
+00:10:39.930 --> 00:10:41.640 line:90% align:center
+<Default><b>Mistress Frieren's
+ravenous side</b></Default>
+
+c0000205
+00:10:41.720 --> 00:10:43.560 line:90% align:center
+<Default><b>only comes out
+every once in a while.</b></Default>
+
+c0000206
+00:10:44.350 --> 00:10:45.350 line:90% align:center
+<Default><b>Hm.</b></Default>
+
+c0000207
+00:10:46.060 --> 00:10:48.900 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000208
+00:10:48.980 --> 00:10:50.860 line:90% align:center
+<Default><b>When the demons
+took this heirloom knife,</b></Default>
+
+c0000209
+00:10:50.940 --> 00:10:53.490 line:90% align:center
+<Default><b>I feared that I would live
+the rest of my days without it.</b></Default>
+
+c0000210
+00:10:54.280 --> 00:10:55.360 line:90% align:center
+<Default><b>When you help Lecker,</b></Default>
+
+c0000211
+00:10:55.450 --> 00:10:56.820 line:90% align:center
+<Default><b>the greatest chef
+of the century,</b></Default>
+
+c0000212
+00:10:56.990 --> 00:10:58.660 line:90% align:center
+<Default><b>then I, Lecker, will help you</b></Default>
+
+c0000213
+00:10:58.780 --> 00:11:00.660 line:90% align:center
+<Default><b>to the dining experience
+of a lifetime</b></Default>
+
+c0000214
+00:11:00.740 --> 00:11:02.040 line:90% align:center
+<Default><b>completely on the house!</b></Default>
+
+c0000215
+00:11:02.950 --> 00:11:04.580 line:90% align:center
+<Default><b>That's a lot of food
+for one elf.</b></Default>
+
+c0000216
+00:11:04.910 --> 00:11:07.080 line:90% align:center
+<Default><b>You don't find food
+this delicious often.</b></Default>
+
+c0000217
+00:11:07.420 --> 00:11:09.250 line:90% align:center
+<Default><b>We must take
+every bite we can get.</b></Default>
+
+c0000218
+00:11:09.420 --> 00:11:11.420 line:90% align:center
+<Default><b>Life is long
+and food is aplenty.</b></Default>
+
+c0000219
+00:11:11.590 --> 00:11:13.130 line:90% align:center
+<Default><b>There's always next time,
+you know.</b></Default>
+
+c0000220
+00:11:13.970 --> 00:11:15.680 line:90% align:center
+<Default><b>Thought so, too,
+until I found myself</b></Default>
+
+c0000221
+00:11:15.760 --> 00:11:17.930 line:90% align:center
+<Default><b>up at night mourning
+the flavors of yesterday.</b></Default>
+
+c0000222
+00:11:18.430 --> 00:11:19.430 line:90% align:center
+<Default><b>-Huh.
+-Huh.</b></Default>
+
+c0000223
+00:11:20.260 --> 00:11:22.770 line:90% align:center
+<Default><b>Oh, don't worry about
+this place, Miss Frieren.</b></Default>
+
+c0000224
+00:11:23.180 --> 00:11:24.180 line:90% align:center
+<Default><b>Huh?</b></Default>
+
+c0000225
+00:11:25.100 --> 00:11:26.400 line:90% align:center
+<Default><b>In a hundred years,</b></Default>
+
+c0000226
+00:11:26.480 --> 00:11:28.310 line:90% align:center
+<Default><b>the food here will be
+just the same.</b></Default>
+
+c0000227
+00:11:28.650 --> 00:11:30.900 line:90% align:center
+<Default><b>Time is strong.
+Taste is stronger.</b></Default>
+
+c0000228
+00:11:31.070 --> 00:11:33.780 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000229
+00:11:33.900 --> 00:11:36.360 line:90% align:center
+<Default><b>Sure.
+That's what they all say.</b></Default>
+
+c0000230
+00:11:36.820 --> 00:11:38.700 line:90% align:center
+<Default><b>Chefs promise consistency,</b></Default>
+
+c0000231
+00:11:39.160 --> 00:11:40.160 line:90% align:center
+<Default><b>but just wait.</b></Default>
+
+c0000232
+00:11:40.240 --> 00:11:41.830 line:90% align:center
+<Default><b>In a few years, your pupils</b></Default>
+
+c0000233
+00:11:41.910 --> 00:11:43.830 line:90% align:center
+<Default><b>will be making
+your recipes their own.</b></Default>
+
+c0000234
+00:11:46.210 --> 00:11:47.330 line:90% align:center
+<Default><b>If that happens,</b></Default>
+
+c0000235
+00:11:47.500 --> 00:11:50.080 line:90% align:center
+<Default><b>we can simply journey on
+to find better flavors.</b></Default>
+
+c0000236
+00:11:50.630 --> 00:11:52.340 line:90% align:center
+<Default><b>You'll be let down,
+Mister Himmel.</b></Default>
+
+c0000237
+00:11:52.800 --> 00:11:56.010 line:90% align:center
+<Default><b>No flavors exist in this world
+that are superior to mine.</b></Default>
+
+c0000238
+00:11:56.800 --> 00:11:59.300 line:90% align:center
+<Default><b>In that case, make sure
+they last into the future.</b></Default>
+
+c0000239
+00:11:59.890 --> 00:12:01.760 line:90% align:center
+<Default><b>Let that be our reward
+for this job.</b></Default>
+
+c0000240
+00:12:02.220 --> 00:12:03.520 line:90% align:center
+<Default><b>I'm putting my faith in you.</b></Default>
+
+c0000241
+00:12:03.720 --> 00:12:06.850 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000242
+00:12:07.020 --> 00:12:08.730 line:90% align:center
+<Default><b>If that's what you wish,
+brave hero.</b></Default>
+
+c0000243
+00:12:09.190 --> 00:12:10.810 line:90% align:center
+<Default><b>I'll do what no chef
+has done before</b></Default>
+
+c0000244
+00:12:10.900 --> 00:12:12.190 line:90% align:center
+<Default><b>and take on time itself.</b></Default>
+
+c0000245
+00:12:12.440 --> 00:12:13.730 line:90% align:center
+<Default><b>You all have my word.</b></Default>
+
+c0000246
+00:12:15.280 --> 00:12:16.360 line:90% align:center
+<Default><b>[munching]</b></Default>
+
+c0000247
+00:12:16.490 --> 00:12:19.240 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000248
+00:12:19.530 --> 00:12:23.030 line:90% align:center
+<Default><b>[munching] Good call, Frieren!
+This is seriously incredible!</b></Default>
+
+c0000249
+00:12:23.990 --> 00:12:26.410 line:90% align:center
+<Default><b>I don't know if we deserve
+such happiness.</b></Default>
+
+c0000250
+00:12:27.120 --> 00:12:28.120 line:90% align:center
+<Default><b>[chomps]</b></Default>
+
+c0000251
+00:12:28.540 --> 00:12:29.540 line:90% align:center
+<Default><b>[munches]</b></Default>
+
+c0000252
+00:12:29.670 --> 00:12:33.210 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000253
+00:12:33.300 --> 00:12:34.460 line:90% align:center
+<Default><b>What a joke.</b></Default>
+
+c0000254
+00:12:34.630 --> 00:12:37.720 line:90% align:center
+<Default><b>Despite his talk, the flavors
+have changed since back then.</b></Default>
+
+c0000255
+00:12:39.930 --> 00:12:42.300 line:90% align:center
+<Default><b>But...on a positive note,</b></Default>
+
+c0000256
+00:12:42.390 --> 00:12:45.010 line:90% align:center
+<Default><b>my search for something
+more delicious ends here.</b></Default>
+
+c0000257
+00:12:45.640 --> 00:12:48.100 line:90% align:center
+<Default><b>It's even better now
+than at my first visit.</b></Default>
+
+c0000258
+00:12:48.690 --> 00:12:49.690 line:90% align:center
+<Default><b>[chomps]</b></Default>
+
+c0000259
+00:12:50.060 --> 00:12:51.060 line:90% align:center
+<Default><b>Hm.</b></Default>
+
+c0000260
+00:12:53.610 --> 00:12:56.150 line:90% align:center
+<Default><b>Life changing is
+putting it lightly. [chuckles]</b></Default>
+
+c0000261
+00:12:56.230 --> 00:12:57.780 line:90% align:center
+<Default><b>Wipe your face, Mister Stark.</b></Default>
+
+c0000262
+00:12:57.990 --> 00:12:59.030 line:90% align:center
+<Default><b>You look a mess.</b></Default>
+
+c0000263
+00:12:59.450 --> 00:13:01.910 line:90% align:center
+<Default><b>You must eat your vegetables,
+young lady.</b></Default>
+
+c0000264
+00:13:02.240 --> 00:13:04.240 line:90% align:center
+<Default><b>Something only a grandfather
+would say.</b></Default>
+
+c0000265
+00:13:04.990 --> 00:13:05.830 line:90% align:center
+<Default><b>[UBEL] Hmm.</b></Default>
+
+c0000266
+00:13:05.910 --> 00:13:07.910 line:90% align:center
+<Default><b>You're a lighter eater
+than I expected.</b></Default>
+
+c0000267
+00:13:08.460 --> 00:13:09.910 line:90% align:center
+<Default><b>What, is that a problem?</b></Default>
+
+c0000268
+00:13:11.080 --> 00:13:12.960 line:90% align:center
+<Default><b>-[door creaking]
+-[FERN] That was no less</b></Default>
+
+c0000269
+00:13:13.040 --> 00:13:14.880 line:90% align:center
+<Default><b>than divine, Mistress Frieren.</b></Default>
+
+c0000270
+00:13:15.040 --> 00:13:17.800 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000271
+00:13:17.880 --> 00:13:19.970 line:90% align:center
+<Default><b>I think we saved
+her mood and our night.</b></Default>
+
+c0000272
+00:13:21.050 --> 00:13:23.850 line:90% align:center
+<Default><b>Yeah, but happiness
+came at what cost?</b></Default>
+
+c0000273
+00:13:24.140 --> 00:13:26.470 line:90% align:center
+<Default><b>I used up the very last
+of my savings.</b></Default>
+
+c0000274
+00:13:26.560 --> 00:13:27.560 line:90% align:center
+<Default><b>[Stark groans]</b></Default>
+
+c0000275
+00:13:29.480 --> 00:13:31.020 line:90% align:center
+<Default><b>[OLD MAN 22A]
+Greet nothingness.</b></Default>
+
+c0000276
+00:13:31.310 --> 00:13:32.350 line:90% align:center
+<Default><b>Good day,</b></Default>
+
+c0000277
+00:13:33.440 --> 00:13:35.270 line:90% align:center
+<Default><b>and be proud,
+for you have arrived</b></Default>
+
+c0000278
+00:13:35.360 --> 00:13:37.360 line:90% align:center
+<Default><b>at the essence
+of the art of war.</b></Default>
+
+c0000279
+00:13:38.320 --> 00:13:41.030 line:90% align:center
+<Default><b>The master's lessons
+are the student's tricks now.</b></Default>
+
+c0000280
+00:13:41.110 --> 00:13:42.410 line:90% align:center
+<Default><b>I bid you farewell.</b></Default>
+
+c0000281
+00:13:43.240 --> 00:13:44.700 line:90% align:center
+<Default><b>[birds chirping]</b></Default>
+
+c0000282
+00:13:49.710 --> 00:13:50.710 line:90% align:center
+<Default><b>Hm.</b></Default>
+
+c0000283
+00:13:53.170 --> 00:13:54.670 line:90% align:center
+<Default><b>Who was that elderly fellow?</b></Default>
+
+c0000284
+00:13:55.250 --> 00:13:56.630 line:90% align:center
+<Default><b>[STARK] I have no idea.</b></Default>
+
+c0000285
+00:13:57.210 --> 00:13:59.340 line:90% align:center
+<Default><b>He just talks at me
+while I'm training.</b></Default>
+
+c0000286
+00:14:00.420 --> 00:14:02.930 line:90% align:center
+<Default><b>[FRIEREN] You seem to be quite
+the beacon for oddballs.</b></Default>
+
+c0000287
+00:14:03.800 --> 00:14:04.890 line:90% align:center
+<Default><b>Whatever the case,</b></Default>
+
+c0000288
+00:14:05.340 --> 00:14:07.010 line:90% align:center
+<Default><b>-are you free?
+-Hm?</b></Default>
+
+c0000289
+00:14:07.260 --> 00:14:08.770 line:90% align:center
+<Default><b>[FRIEREN] I'd like your help
+with something.</b></Default>
+
+c0000290
+00:14:09.180 --> 00:14:10.730 line:90% align:center
+<Default><b>What happened this time?</b></Default>
+
+c0000291
+00:14:11.520 --> 00:14:13.100 line:90% align:center
+<Default><b>[grunts]</b></Default>
+
+c0000292
+00:14:13.400 --> 00:14:15.940 line:90% align:center
+<Default><b>Great. An advanced state
+of grumpy.</b></Default>
+
+c0000293
+00:14:16.270 --> 00:14:18.360 line:90% align:center
+<Default><b>She's in an even worse
+mood than yesterday.</b></Default>
+
+c0000294
+00:14:18.530 --> 00:14:19.530 line:90% align:center
+<Default><b>Yep.</b></Default>
+
+c0000295
+00:14:19.940 --> 00:14:21.400 line:90% align:center
+<Default><b>So, what the heck
+did you do wrong?</b></Default>
+
+c0000296
+00:14:21.740 --> 00:14:23.410 line:90% align:center
+<Default><b>It was my turn
+to do the shopping,</b></Default>
+
+c0000297
+00:14:23.490 --> 00:14:25.870 line:90% align:center
+<Default><b>but I may've accidentally
+overslept a little.</b></Default>
+
+c0000298
+00:14:26.030 --> 00:14:28.280 line:90% align:center
+<Default><b>Okay, but you oversleep
+more times than not.</b></Default>
+
+c0000299
+00:14:28.620 --> 00:14:29.750 line:90% align:center
+<Default><b>Why'd it bug her today?</b></Default>
+
+c0000300
+00:14:29.990 --> 00:14:32.370 line:90% align:center
+<Default><b>Fern is the type to let
+anger build up inside</b></Default>
+
+c0000301
+00:14:32.460 --> 00:14:33.920 line:90% align:center
+<Default><b>until she has to explode.</b></Default>
+
+c0000302
+00:14:34.000 --> 00:14:35.920 line:90% align:center
+<Default><b>And what does
+that explosion entail?</b></Default>
+
+c0000303
+00:14:36.840 --> 00:14:39.210 line:90% align:center
+<Default><b>Oh, just the dreaded
+silent treatment.</b></Default>
+
+c0000304
+00:14:39.420 --> 00:14:41.170 line:90% align:center
+<Default><b>Do you two have to fight
+like children?</b></Default>
+
+c0000305
+00:14:41.920 --> 00:14:43.680 line:90% align:center
+<Default><b>Please, I beg you, Stark!</b></Default>
+
+c0000306
+00:14:43.840 --> 00:14:45.010 line:90% align:center
+<Default><b>Mediate for us?</b></Default>
+
+c0000307
+00:14:45.090 --> 00:14:47.720 line:90% align:center
+<Default><b>I can hardly get her
+to grunt in my direction!</b></Default>
+
+c0000308
+00:14:47.810 --> 00:14:49.850 line:90% align:center
+<Default><b>Huh? You've gotta
+be kidding me!</b></Default>
+
+c0000309
+00:14:49.930 --> 00:14:51.180 line:90% align:center
+<Default><b>That's way too scary!</b></Default>
+
+c0000310
+00:14:52.350 --> 00:14:53.520 line:90% align:center
+<Default><b>Right, of course.</b></Default>
+
+c0000311
+00:14:53.940 --> 00:14:55.690 line:90% align:center
+<Default><b>You wouldn't put
+your life on the line.</b></Default>
+
+c0000312
+00:14:58.270 --> 00:15:00.190 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000313
+00:15:00.440 --> 00:15:01.570 line:90% align:center
+<Default><b>[grunts]</b></Default>
+
+c0000314
+00:15:02.940 --> 00:15:05.530 line:90% align:center
+<Default><b>So, uh, Mistress Fern.</b></Default>
+
+c0000315
+00:15:05.910 --> 00:15:07.200 line:90% align:center
+<Default><b>Your old pal Frieren says</b></Default>
+
+c0000316
+00:15:07.280 --> 00:15:09.280 line:90% align:center
+<Default><b>she's terribly sorry
+for being lazy.</b></Default>
+
+c0000317
+00:15:10.870 --> 00:15:12.200 line:90% align:center
+<Default><b>-[FERN] I'm hungry.
+-Huh?</b></Default>
+
+c0000318
+00:15:14.330 --> 00:15:15.750 line:90% align:center
+<Default><b>I want to eat snacks.</b></Default>
+
+c0000319
+00:15:16.580 --> 00:15:17.630 line:90% align:center
+<Default><b>Huh?</b></Default>
+
+c0000320
+00:15:17.750 --> 00:15:20.800 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000321
+00:15:21.090 --> 00:15:22.960 line:90% align:center
+<Default><b>[STARK] She's a real pain
+in the butt.</b></Default>
+
+c0000322
+00:15:23.760 --> 00:15:26.220 line:90% align:center
+<Default><b>Great! How about you
+and I go snack shopping?</b></Default>
+
+c0000323
+00:15:26.680 --> 00:15:28.010 line:90% align:center
+<Default><b>[FRIEREN]
+Hope my secret savings</b></Default>
+
+c0000324
+00:15:28.090 --> 00:15:29.260 line:90% align:center
+<Default><b>aren't dry, too.</b></Default>
+
+c0000325
+00:15:35.350 --> 00:15:36.350 line:90% align:center
+<Default><b>Huh.</b></Default>
+
+c0000326
+00:15:36.730 --> 00:15:38.350 line:90% align:center
+<Default><b>I know him from the test.</b></Default>
+
+c0000327
+00:15:39.020 --> 00:15:42.440 line:90% align:center
+<Default><b>I'm pretty sure that's Wirbel
+of the Northern Magic Corps.</b></Default>
+
+c0000328
+00:15:43.820 --> 00:15:44.820 line:90% align:center
+<Default><b>Huh?</b></Default>
+
+c0000329
+00:15:45.070 --> 00:15:46.280 line:90% align:center
+<Default><b>You're a warrior, yeah?</b></Default>
+
+c0000330
+00:15:46.740 --> 00:15:48.990 line:90% align:center
+<Default><b>Huh? Uh, I don't know you, sir.</b></Default>
+
+c0000331
+00:15:49.530 --> 00:15:50.530 line:90% align:center
+<Default><b>Will he do?</b></Default>
+
+c0000332
+00:15:50.740 --> 00:15:51.740 line:90% align:center
+<Default><b>Hey!</b></Default>
+
+c0000333
+00:15:52.700 --> 00:15:53.700 line:90% align:center
+<Default><b>What the heck?</b></Default>
+
+c0000334
+00:15:54.450 --> 00:15:56.290 line:90% align:center
+<Default><b>-Hm.
+-Let's keep looking.</b></Default>
+
+c0000335
+00:15:56.460 --> 00:15:57.460 line:90% align:center
+<Default><b>He's not it.</b></Default>
+
+c0000336
+00:15:58.040 --> 00:15:59.040 line:90% align:center
+<Default><b>Huh.</b></Default>
+
+c0000337
+00:16:00.880 --> 00:16:02.590 line:90% align:center
+<Default><b>I wonder what he's up to.</b></Default>
+
+c0000338
+00:16:04.010 --> 00:16:05.300 line:90% align:center
+<Default><b>[LAWINE]
+Thanks for waiting, Kanne.</b></Default>
+
+c0000339
+00:16:05.760 --> 00:16:06.760 line:90% align:center
+<Default><b>Hm.</b></Default>
+
+c0000340
+00:16:07.220 --> 00:16:10.890 line:90% align:center
+<Default><b>Wow, Lawine, you're looking
+even cuter than usual.</b></Default>
+
+c0000341
+00:16:11.680 --> 00:16:14.470 line:90% align:center
+<Default><b>All of my brothers just got
+home from the imperial capital.</b></Default>
+
+c0000342
+00:16:15.140 --> 00:16:16.140 line:90% align:center
+<Default><b>[sighs]</b></Default>
+
+c0000343
+00:16:17.640 --> 00:16:20.480 line:90% align:center
+<Default><b>They never fail to return
+with trifles that I don't want.</b></Default>
+
+c0000344
+00:16:21.730 --> 00:16:23.730 line:90% align:center
+<Default><b>Grown men shouldn't
+need a dress-up doll.</b></Default>
+
+c0000345
+00:16:24.360 --> 00:16:26.030 line:90% align:center
+<Default><b>But my mom gets into it, too.</b></Default>
+
+c0000346
+00:16:26.490 --> 00:16:28.280 line:90% align:center
+<Default><b>She makes no effort
+to stop them.</b></Default>
+
+c0000347
+00:16:28.450 --> 00:16:30.740 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000348
+00:16:30.870 --> 00:16:33.080 line:90% align:center
+<Default><b>[KANNE] You're even
+more spoiled than me.</b></Default>
+
+c0000349
+00:16:33.410 --> 00:16:36.000 line:90% align:center
+<Default><b>If you want my life, you're
+more than welcome to it.</b></Default>
+
+c0000350
+00:16:36.120 --> 00:16:38.160 line:90% align:center
+<Default><b>Constantly being compared
+to genius brothers</b></Default>
+
+c0000351
+00:16:38.250 --> 00:16:39.540 line:90% align:center
+<Default><b>is utterly grueling.</b></Default>
+
+c0000352
+00:16:40.040 --> 00:16:41.000 line:90% align:center
+<Default><b>[LAWINE] Let's get moving</b></Default>
+
+c0000353
+00:16:41.080 --> 00:16:42.630 line:90% align:center
+<Default><b>before this outfit
+strangles me.</b></Default>
+
+c0000354
+00:16:43.670 --> 00:16:44.670 line:90% align:center
+<Default><b>Hm.</b></Default>
+
+c0000355
+00:16:47.300 --> 00:16:49.430 line:90% align:center
+<Default><b>Today, nothing would
+please me more</b></Default>
+
+c0000356
+00:16:49.510 --> 00:16:51.510 line:90% align:center
+<Default><b>than being your prince,
+my lady.</b></Default>
+
+c0000357
+00:16:51.720 --> 00:16:55.310 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000358
+00:16:55.390 --> 00:16:56.390 line:90% align:center
+<Default><b>[chuckles]</b></Default>
+
+c0000359
+00:16:57.310 --> 00:17:01.270 line:90% align:center
+<Default><b>Ow! You're gonna rip them
+outta my poor little head!</b></Default>
+
+c0000360
+00:17:03.610 --> 00:17:10.610 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000361
+00:17:19.250 --> 00:17:20.670 line:90% align:center
+<Default><b>Hm?</b></Default>
+
+c0000362
+00:17:22.330 --> 00:17:24.210 line:90% align:center
+<Default><b>Hey, so. Mistress Fern?</b></Default>
+
+c0000363
+00:17:24.540 --> 00:17:26.050 line:90% align:center
+<Default><b>Are you craving
+something special?</b></Default>
+
+c0000364
+00:17:26.710 --> 00:17:27.800 line:90% align:center
+<Default><b>Anything is fine.</b></Default>
+
+c0000365
+00:17:28.380 --> 00:17:30.470 line:90% align:center
+<Default><b>I don't care.
+Just make it quick.</b></Default>
+
+c0000366
+00:17:32.430 --> 00:17:33.550 line:90% align:center
+<Default><b>[STARK] Translation?</b></Default>
+
+c0000367
+00:17:33.640 --> 00:17:35.300 line:90% align:center
+<Default><b>She cares, and she cares a lot.</b></Default>
+
+c0000368
+00:17:37.060 --> 00:17:38.220 line:90% align:center
+<Default><b>What should I pick?</b></Default>
+
+c0000369
+00:17:38.890 --> 00:17:41.230 line:90% align:center
+<Default><b>I'm afraid that I know
+no better than you.</b></Default>
+
+c0000370
+00:17:43.350 --> 00:17:44.480 line:90% align:center
+<Default><b>-Huh.
+-Huh.</b></Default>
+
+c0000371
+00:17:44.770 --> 00:17:46.020 line:90% align:center
+<Default><b>Hey, look at those ears.</b></Default>
+
+c0000372
+00:17:46.110 --> 00:17:47.990 line:90% align:center
+<Default><b>-Isn't that Frieren?
+-Uh-huh.</b></Default>
+
+c0000373
+00:17:48.610 --> 00:17:51.610 line:90% align:center
+<Default><b>[indistinct chatter]</b></Default>
+
+c0000374
+00:17:51.950 --> 00:17:53.410 line:90% align:center
+<Default><b>I'm glad we ran into you.</b></Default>
+
+c0000375
+00:17:53.490 --> 00:17:56.490 line:90% align:center
+<Default><b>We were just thinking about
+coming by the inn to say hello.</b></Default>
+
+c0000376
+00:17:57.080 --> 00:17:58.240 line:90% align:center
+<Default><b>Who are these girls?</b></Default>
+
+c0000377
+00:17:58.580 --> 00:18:00.620 line:90% align:center
+<Default><b>The first test was completed
+in groups of three,</b></Default>
+
+c0000378
+00:18:00.710 --> 00:18:01.830 line:90% align:center
+<Default><b>and they were in mine.</b></Default>
+
+c0000379
+00:18:01.920 --> 00:18:02.920 line:90% align:center
+<Default><b>Best group ever!</b></Default>
+
+c0000380
+00:18:03.000 --> 00:18:04.250 line:90% align:center
+<Default><b>We were lucky to be on a team</b></Default>
+
+c0000381
+00:18:04.330 --> 00:18:05.920 line:90% align:center
+<Default><b>with someone as wise
+as Frieren!</b></Default>
+
+c0000382
+00:18:06.090 --> 00:18:09.090 line:90% align:center
+<Default><b>She was also a teacher
+and a leader, too!</b></Default>
+
+c0000383
+00:18:09.210 --> 00:18:11.220 line:90% align:center
+<Default><b>-Hm?
+-[FRIEREN] You were too busy</b></Default>
+
+c0000384
+00:18:11.300 --> 00:18:12.760 line:90% align:center
+<Default><b>fighting to lead yourselves.</b></Default>
+
+c0000385
+00:18:12.840 --> 00:18:14.890 line:90% align:center
+<Default><b>[KANNE] Maybe, but that
+was Lawine's fault.</b></Default>
+
+c0000386
+00:18:15.050 --> 00:18:18.220 line:90% align:center
+<Default><b>[STARK] A boy can't relax
+with all these ladies around.</b></Default>
+
+c0000387
+00:18:18.770 --> 00:18:19.770 line:90% align:center
+<Default><b>-Hey.
+-Huh?</b></Default>
+
+c0000388
+00:18:20.140 --> 00:18:21.810 line:90% align:center
+<Default><b>Fancy yourself a warrior, yeah?</b></Default>
+
+c0000389
+00:18:21.980 --> 00:18:23.060 line:90% align:center
+<Default><b>What?</b></Default>
+
+c0000390
+00:18:23.140 --> 00:18:25.480 line:90% align:center
+<Default><b>Hey, fellas.
+What are you guys...</b></Default>
+
+c0000391
+00:18:25.690 --> 00:18:28.440 line:90% align:center
+<Default><b>You're really hands on, huh?</b></Default>
+
+c0000392
+00:18:28.570 --> 00:18:30.530 line:90% align:center
+<Default><b>-[frightened]
+-Looks good.</b></Default>
+
+c0000393
+00:18:30.690 --> 00:18:32.190 line:90% align:center
+<Default><b>Bet you could get
+the job done, champ.</b></Default>
+
+c0000394
+00:18:32.280 --> 00:18:34.200 line:90% align:center
+<Default><b>Don't hurt me!</b></Default>
+
+c0000395
+00:18:34.450 --> 00:18:36.160 line:90% align:center
+<Default><b>There's a Fresser
+tearing up crops,</b></Default>
+
+c0000396
+00:18:36.240 --> 00:18:38.410 line:90% align:center
+<Default><b>and the Continental Magic
+Association hired me</b></Default>
+
+c0000397
+00:18:38.490 --> 00:18:40.120 line:90% align:center
+<Default><b>to do pest control
+while I'm here,</b></Default>
+
+c0000398
+00:18:40.490 --> 00:18:42.410 line:90% align:center
+<Default><b>but I'm in dire need
+of a front liner.</b></Default>
+
+c0000399
+00:18:43.040 --> 00:18:44.960 line:90% align:center
+<Default><b>After all the fun
+we had during the test,</b></Default>
+
+c0000400
+00:18:45.040 --> 00:18:47.170 line:90% align:center
+<Default><b>the least you could do is
+let me borrow your comrade.</b></Default>
+
+c0000401
+00:18:47.630 --> 00:18:49.590 line:90% align:center
+<Default><b>-Take him.
+-[STARK] So mean!</b></Default>
+
+c0000402
+00:18:50.380 --> 00:18:51.260 line:90% align:center
+<Default><b>[grunts]</b></Default>
+
+c0000403
+00:18:51.340 --> 00:18:53.050 line:90% align:center
+<Default><b>-Just kicked me to the curb.
+-Are you okay with him</b></Default>
+
+c0000404
+00:18:53.130 --> 00:18:54.220 line:90% align:center
+<Default><b>stealing your friend?</b></Default>
+
+c0000405
+00:18:54.550 --> 00:18:55.970 line:90% align:center
+<Default><b>My friend will be fine.</b></Default>
+
+c0000406
+00:18:56.090 --> 00:18:58.010 line:90% align:center
+<Default><b>I didn't sense
+any malicious intent.</b></Default>
+
+c0000407
+00:18:58.350 --> 00:19:00.640 line:90% align:center
+<Default><b>He's very different
+than he was in the test.</b></Default>
+
+c0000408
+00:19:00.890 --> 00:19:03.690 line:90% align:center
+<Default><b>He's probably the type who can
+turn it off and on for work.</b></Default>
+
+c0000409
+00:19:04.100 --> 00:19:05.310 line:90% align:center
+<Default><b>That's how my brothers are.</b></Default>
+
+c0000410
+00:19:08.110 --> 00:19:09.070 line:90% align:center
+<Default><b>[KANNE] Here, Frieren.</b></Default>
+
+c0000411
+00:19:10.030 --> 00:19:11.150 line:90% align:center
+<Default><b>To say thank you.</b></Default>
+
+c0000412
+00:19:11.780 --> 00:19:12.780 line:90% align:center
+<Default><b>Hm.</b></Default>
+
+c0000413
+00:19:13.190 --> 00:19:16.030 line:90% align:center
+<Default><b>That's kind, but I don't see
+what I did to deserve thanks.</b></Default>
+
+c0000414
+00:19:17.070 --> 00:19:18.080 line:90% align:center
+<Default><b>[LAWINE] Come on.</b></Default>
+
+c0000415
+00:19:18.410 --> 00:19:20.080 line:90% align:center
+<Default><b>You're the whole reason
+we advanced.</b></Default>
+
+c0000416
+00:19:20.160 --> 00:19:21.200 line:90% align:center
+<Default><b>If it weren't for your plan,</b></Default>
+
+c0000417
+00:19:21.290 --> 00:19:22.700 line:90% align:center
+<Default><b>we never would've
+caught our Stille.</b></Default>
+
+c0000418
+00:19:22.910 --> 00:19:24.040 line:90% align:center
+<Default><b>So, thank you.</b></Default>
+
+c0000419
+00:19:25.290 --> 00:19:26.290 line:90% align:center
+<Default><b>Huh.</b></Default>
+
+c0000420
+00:19:26.500 --> 00:19:27.540 line:90% align:center
+<Default><b>[GIRL 22A]
+Thank you!</b></Default>
+
+c0000421
+00:19:28.330 --> 00:19:29.590 line:90% align:center
+<Default><b>You're the best, Himmel!</b></Default>
+
+c0000422
+00:19:31.000 --> 00:19:32.550 line:90% align:center
+<Default><b>You have nothing to fear now.</b></Default>
+
+c0000423
+00:19:32.710 --> 00:19:33.720 line:90% align:center
+<Default><b>[GIRL 22A] Yeah.</b></Default>
+
+c0000424
+00:19:33.920 --> 00:19:36.430 line:90% align:center
+<Default><b>Go on. Watch over
+your parents for me.</b></Default>
+
+c0000425
+00:19:36.760 --> 00:19:37.760 line:90% align:center
+<Default><b>[GIRL 22A] Yes, sir!</b></Default>
+
+c0000426
+00:19:38.300 --> 00:19:43.850 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000427
+00:19:44.180 --> 00:19:46.690 line:90% align:center
+<Default><b>What's your motivation
+for helping people, Himmel?</b></Default>
+
+c0000428
+00:19:47.850 --> 00:19:49.270 line:90% align:center
+<Default><b>I'm a hero, of course.</b></Default>
+
+c0000429
+00:19:49.360 --> 00:19:51.110 line:90% align:center
+<Default><b>That's not really a motivation.</b></Default>
+
+c0000430
+00:19:52.360 --> 00:19:54.280 line:90% align:center
+<Default><b>[Himmel chuckles]
+Tough question.</b></Default>
+
+c0000431
+00:19:55.190 --> 00:19:57.860 line:90% align:center
+<Default><b>Speaking frankly,
+I might do it for me.</b></Default>
+
+c0000432
+00:19:59.070 --> 00:20:00.700 line:90% align:center
+<Default><b>So that when
+I leave this world,</b></Default>
+
+c0000433
+00:20:00.910 --> 00:20:03.910 line:90% align:center
+<Default><b>my name lives on in the hearts
+of the people I impacted.</b></Default>
+
+c0000434
+00:20:04.580 --> 00:20:07.330 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000435
+00:20:07.500 --> 00:20:09.040 line:90% align:center
+<Default><b>That's why we're here,
+after all.</b></Default>
+
+c0000436
+00:20:09.540 --> 00:20:11.040 line:90% align:center
+<Default><b>For to live is to be known.</b></Default>
+
+c0000437
+00:20:11.250 --> 00:20:13.000 line:90% align:center
+<Default><b>To live is to be remembered.</b></Default>
+
+c0000438
+00:20:14.880 --> 00:20:17.930 line:90% align:center
+<Default><b>What do you suppose I should do
+for someone to remember me?</b></Default>
+
+c0000439
+00:20:20.010 --> 00:20:21.470 line:90% align:center
+<Default><b>You should change their life,</b></Default>
+
+c0000440
+00:20:22.010 --> 00:20:24.180 line:90% align:center
+<Default><b>even if it's only
+in some small way.</b></Default>
+
+c0000441
+00:20:25.390 --> 00:20:27.390 line:90% align:center
+<Default><b>I would try that
+and hope for the best.</b></Default>
+
+c0000442
+00:20:27.560 --> 00:20:32.940 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000443
+00:20:33.070 --> 00:20:36.070 line:90% align:center
+<Default><b>[all laughing]</b></Default>
+
+c0000444
+00:20:36.900 --> 00:20:38.240 line:90% align:center
+<Default><b>[KANNE]
+The scariest part of it all</b></Default>
+
+c0000445
+00:20:38.320 --> 00:20:39.780 line:90% align:center
+<Default><b>was when Lawine wandered off.</b></Default>
+
+c0000446
+00:20:40.030 --> 00:20:41.990 line:90% align:center
+<Default><b>[LAWINE] I go with purpose,
+I don't wander.</b></Default>
+
+c0000447
+00:20:42.200 --> 00:20:43.200 line:90% align:center
+<Default><b>That was you.</b></Default>
+
+c0000448
+00:20:43.330 --> 00:20:45.200 line:90% align:center
+<Default><b>[KANNE] Are we thinking
+of the same story?</b></Default>
+
+c0000449
+00:20:45.290 --> 00:20:47.580 line:90% align:center
+<Default><b>[LAWINE] You're the issue
+in every story. [laughs]</b></Default>
+
+c0000450
+00:20:47.660 --> 00:20:48.830 line:90% align:center
+<Default><b>[Kanne laughs]
+What can I say?</b></Default>
+
+c0000451
+00:20:49.580 --> 00:20:50.750 line:90% align:center
+<Default><b>Mistress Frieren.</b></Default>
+
+c0000452
+00:20:50.830 --> 00:20:52.170 line:90% align:center
+<Default><b>These sweets are amazing.</b></Default>
+
+c0000453
+00:20:52.250 --> 00:20:53.750 line:90% align:center
+<Default><b>Your friends have good taste.</b></Default>
+
+c0000454
+00:20:54.090 --> 00:20:55.710 line:90% align:center
+<Default><b>[FRIEREN] Glad to see
+you're feeling better.</b></Default>
+
+c0000455
+00:20:56.760 --> 00:20:58.380 line:90% align:center
+<Default><b>[LAWINE] Frieren had
+her moments, too.</b></Default>
+
+c0000456
+00:20:58.470 --> 00:21:00.590 line:90% align:center
+<Default><b>We could hardly get her out
+of bed on the second morning.</b></Default>
+
+c0000457
+00:21:00.680 --> 00:21:02.180 line:90% align:center
+<Default><b>Let's not dwell on that one.</b></Default>
+
+c0000458
+00:21:02.430 --> 00:21:04.180 line:90% align:center
+<Default><b>She just got out
+of her bad mood.</b></Default>
+
+c0000459
+00:21:04.560 --> 00:21:06.140 line:90% align:center
+<Default><b>[grunts]</b></Default>
+
+c0000460
+00:21:06.770 --> 00:21:08.230 line:90% align:center
+<Default><b>-Frieren.
+-Hm?</b></Default>
+
+c0000461
+00:21:09.310 --> 00:21:11.310 line:90% align:center
+<Default><b>We may have been
+a team in the first test,</b></Default>
+
+c0000462
+00:21:11.400 --> 00:21:12.690 line:90% align:center
+<Default><b>but we still have two more.</b></Default>
+
+c0000463
+00:21:13.150 --> 00:21:15.150 line:90% align:center
+<Default><b>Past allies are future enemies.</b></Default>
+
+c0000464
+00:21:15.610 --> 00:21:16.820 line:90% align:center
+<Default><b>[FRIEREN]
+I suppose you're right.</b></Default>
+
+c0000465
+00:21:17.360 --> 00:21:18.570 line:90% align:center
+<Default><b>-Huh.
+-Huh.</b></Default>
+
+c0000466
+00:21:19.070 --> 00:21:21.030 line:90% align:center
+<Default><b>[fluttering]</b></Default>
+
+c0000467
+00:21:21.870 --> 00:21:22.870 line:90% align:center
+<Default><b>[screeches]</b></Default>
+
+c0000468
+00:21:23.570 --> 00:21:24.580 line:90% align:center
+<Default><b>[ALL] Huh.</b></Default>
+
+c0000469
+00:21:26.330 --> 00:21:27.330 line:90% align:center
+<Default><b>[FRIEREN] What is it?</b></Default>
+
+c0000470
+00:21:28.040 --> 00:21:29.960 line:90% align:center
+<Default><b>[FERN] A notice
+of the second test.</b></Default>
+
+c0000471
+00:21:30.460 --> 00:21:32.460 line:90% align:center
+<Default><b>It says here where we go
+and when.</b></Default>
+
+c0000472
+00:21:32.880 --> 00:21:35.670 line:90% align:center
+<Default><b>And look. It also lists
+the proctor's name.</b></Default>
+
+c0000473
+00:21:36.090 --> 00:21:38.220 line:90% align:center
+<Default><b>So, this'll be
+a Sense test, huh?</b></Default>
+
+c0000474
+00:21:38.550 --> 00:21:39.840 line:90% align:center
+<Default><b>There goes our luck.</b></Default>
+
+c0000475
+00:21:40.130 --> 00:21:42.720 line:90% align:center
+<Default><b>I can't believe we worked
+so hard for this to happen.</b></Default>
+
+c0000476
+00:21:43.220 --> 00:21:44.680 line:90% align:center
+<Default><b>I don't see the issue.</b></Default>
+
+c0000477
+00:21:46.720 --> 00:21:49.770 line:90% align:center
+<Default><b>Sense has proctored four tests
+in the exam's history.</b></Default>
+
+c0000478
+00:21:50.520 --> 00:21:52.520 line:90% align:center
+<Default><b>Nobody's ever passed
+a single one.</b></Default>
+
+c0000479
+00:21:53.190 --> 00:22:00.200 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000480
+00:22:23.470 --> 00:22:25.100 line:90% align:center
+<Default><b>[STARK] Oh, this meat is tasty!</b></Default>
+
+c0000481
+00:22:25.180 --> 00:22:27.350 line:90% align:center
+<Default><b>I could see it in you
+from the first blow!</b></Default>
+
+c0000482
+00:22:27.430 --> 00:22:29.220 line:90% align:center
+<Default><b>The essence of the art of war!</b></Default>
+
+c0000483
+00:22:29.350 --> 00:22:31.680 line:90% align:center
+<Default><b>♪</b></Default>
+
+c0000484
+00:22:34.060 --> 00:22:36.110 line:90% align:center
+<Default><b>[GENAU] The test
+you're planning is cruel.</b></Default>
+
+c0000485
+00:22:38.940 --> 00:22:39.990 line:90% align:center
+<Default><b>[SENSE] That so?</b></Default>
+
+c0000486
+00:22:40.940 --> 00:22:43.110 line:90% align:center
+<Default><b>Don't forget,
+I'm a pacifist, Genau.</b></Default>
+
+c0000487
+00:22:45.820 --> 00:22:47.620 line:90% align:center
+<Default><b>Much unlike yourself.</b></Default>
+
+c0000488
+00:24:20.540 --> 00:24:22.380 line:90% align:center
+<Default><b>[WIRBEL] I can't say
+I expected this.</b></Default>
+
+c0000489
+00:24:22.880 --> 00:24:24.340 line:90% align:center
+<Default><b>[TON] That is not happening.</b></Default>
+
+c0000490
+00:24:24.670 --> 00:24:25.840 line:90% align:center
+<Default><b>[FRIEREN]
+We'll proceed with caution</b></Default>
+
+c0000491
+00:24:25.920 --> 00:24:27.130 line:90% align:center
+<Default><b>while mapping the dungeon.</b></Default>
+
+c0000492
+00:24:27.590 --> 00:24:29.720 line:90% align:center
+<Default><b>[SENSE] You'll be
+conquering the labyrinth.</b></Default>
+

@@ -32,7 +32,7 @@ Style: ED-E,FOT-Matisse Pro DB,44,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:32.09,0:01:33.47,Default,,0,0,0,,[LUGNER]\NOf course.
+Dialogue: 0,0:01:32.09,0:01:33.47,Default,,0,0,0,,[LÜGNER]\NOf course.
 Dialogue: 0,0:01:34.77,0:01:36.48,Default,,0,0,0,,I remember now.
 Dialogue: 0,0:01:37.89,0:01:39.31,Default,,0,0,0,,It was Frieren.
 Dialogue: 0,0:01:41.31,0:01:43.81,Default,,0,0,0,,The mage who made\Ngreat contributions
@@ -185,7 +185,7 @@ Dialogue: 0,0:09:41.25,0:09:42.58,Default,,0,0,0,,No sweat.
 Dialogue: 0,0:09:43.00,0:09:45.88,Default,,0,0,0,,I'll swallow my pride\Nand beg Frieren to return.
 Dialogue: 0,0:09:47.80,0:09:48.92,Default,,0,0,0,,[FERN]\NHuh?
 Dialogue: 0,0:09:51.05,0:09:52.80,Default,,0,0,0,,[STARK] She's obviously\Nthe only person around
-Dialogue: 0,0:09:52.88,0:09:54.42,Default,,0,0,0,,who can defeat Lugner!
+Dialogue: 0,0:09:52.88,0:09:54.42,Default,,0,0,0,,who can defeat Lügner!
 Dialogue: 0,0:09:55.35,0:09:57.14,Default,,0,0,0,,[FERN]\NNot what I was expecting,
 Dialogue: 0,0:09:57.23,0:09:58.85,Default,,0,0,0,,but more realistic.
 Dialogue: 0,0:10:03.23,0:10:05.24,Default,,0,0,0,,[STARK] Here.\NThe guards will listen to you
@@ -215,18 +215,18 @@ Dialogue: 0,0:11:07.00,0:11:08.09,Italics,,0,0,0,,[STARK]\NAn axe?
 Dialogue: 0,0:11:13.21,0:11:14.59,Default,,0,0,0,,Unbelievable.
 Dialogue: 0,0:11:14.67,0:11:16.85,Default,,0,0,0,,I've got to be dreaming\Nor something.
 Dialogue: 0,0:11:17.51,0:11:20.18,Default,,0,0,0,,[STARK] 'Cause that looked\Nlike my master's technique.
-Dialogue: 0,0:11:23.56,0:11:25.01,Default,,0,0,0,,[LUGNER]\NI meant to hit your vitals,
+Dialogue: 0,0:11:23.56,0:11:25.01,Default,,0,0,0,,[LÜGNER]\NI meant to hit your vitals,
 Dialogue: 0,0:11:25.10,0:11:27.07,Default,,0,0,0,,but you're faster\Nthan I expected.
 Dialogue: 0,0:11:28.23,0:11:31.19,Default,,0,0,0,,It truly wasn't my intention\Nto make you suffer.
 Dialogue: 0,0:11:35.74,0:11:37.49,Default,,0,0,0,,Why do you look so shocked?
 Dialogue: 0,0:11:38.20,0:11:40.12,Default,,0,0,0,,Did you think your attack\Nhad killed me?
 Dialogue: 0,0:11:40.20,0:11:42.20,Default,,0,0,0,,That I was mortally wounded?
-Dialogue: 0,0:11:42.62,0:11:44.28,Default,,0,0,0,,[LUGNER]\NNo. You're surprised
+Dialogue: 0,0:11:42.62,0:11:44.28,Default,,0,0,0,,[LÜGNER]\NNo. You're surprised
 Dialogue: 0,0:11:44.37,0:11:46.42,Default,,0,0,0,,you didn't sense us\Nas we approached.
 Dialogue: 0,0:11:48.46,0:11:50.04,Default,,0,0,0,,You aren't unique\Nin your ability
 Dialogue: 0,0:11:50.13,0:11:51.71,Default,,0,0,0,,to conceal your presence.
 Dialogue: 0,0:11:51.92,0:11:54.63,Default,,0,0,0,,It's a simple matter\Nof controlling one's mana.
-Dialogue: 0,0:11:54.84,0:11:56.43,Default,,0,0,0,,[LUGNER]\NAny demon can do the same,
+Dialogue: 0,0:11:54.84,0:11:56.43,Default,,0,0,0,,[LÜGNER]\NAny demon can do the same,
 Dialogue: 0,0:11:56.51,0:11:57.85,Default,,0,0,0,,should they wish.
 Dialogue: 0,0:11:58.76,0:11:59.93,Default,,0,0,0,,To be fair,
 Dialogue: 0,0:12:00.18,0:12:01.55,Default,,0,0,0,,it's hardly a noble way
@@ -238,9 +238,9 @@ Dialogue: 0,0:12:12.23,0:12:14.23,Default,,0,0,0,,True. But seeing\Nas you're st
 Dialogue: 0,0:12:14.31,0:12:16.45,Default,,0,0,0,,I might as well ask\Na few questions.
 Dialogue: 0,0:12:18.57,0:12:20.74,Default,,0,0,0,,Unless, of course,\Nyou're in a hurry to die.
 Dialogue: 0,0:12:22.78,0:12:23.95,Default,,0,0,0,,Go on.
-Dialogue: 0,0:12:26.75,0:12:28.58,Default,,0,0,0,,[LUGNER]\NHow strong is that boy?
+Dialogue: 0,0:12:26.75,0:12:28.58,Default,,0,0,0,,[LÜGNER]\NHow strong is that boy?
 Dialogue: 0,0:12:29.79,0:12:32.17,Default,,0,0,0,,[FERN] He's Eisen the Warrior's\Nbest student.
-Dialogue: 0,0:12:32.75,0:12:33.88,Default,,0,0,0,,[LUGNER]\NI see.
+Dialogue: 0,0:12:32.75,0:12:33.88,Default,,0,0,0,,[LÜGNER]\NI see.
 Dialogue: 0,0:12:34.13,0:12:35.47,Default,,0,0,0,,How unfortunate.
 Dialogue: 0,0:12:36.18,0:12:38.26,Default,,0,0,0,,The poor thing will die\Na torturous death.
 Dialogue: 0,0:12:38.68,0:12:40.89,Default,,0,0,0,,Linie likes to take her time.
@@ -252,7 +252,7 @@ Dialogue: 0,0:12:54.31,0:12:56.49,Default,,0,0,0,,because you killed\Nthe dungeo
 Dialogue: 0,0:12:57.03,0:12:59.36,Default,,0,0,0,,Graf Granat blamed me\Nfor that, as well.
 Dialogue: 0,0:12:59.82,0:13:02.07,Default,,0,0,0,,Is it really\Nsuch a serious offense?
 Dialogue: 0,0:13:02.95,0:13:04.24,Default,,0,0,0,,The penalty's death.
-Dialogue: 0,0:13:04.70,0:13:05.87,Default,,0,0,0,,[LUGNER]\NHm.
+Dialogue: 0,0:13:04.70,0:13:05.87,Default,,0,0,0,,[LÜGNER]\NHm.
 Dialogue: 0,0:13:06.17,0:13:08.37,Default,,0,0,0,,Still, a woman like Frieren\Nwouldn't flee
 Dialogue: 0,0:13:08.46,0:13:09.79,Default,,0,0,0,,because of such a danger.
 Dialogue: 0,0:13:10.46,0:13:13.79,Default,,0,0,0,,It's obvious she holds\Na grudge against demons.
@@ -264,7 +264,7 @@ Dialogue: 0,0:13:28.48,0:13:29.64,Default,,0,0,0,,For Lady Aura.
 Dialogue: 0,0:13:33.69,0:13:35.40,Default,,0,0,0,,Do not take another step.
 Dialogue: 0,0:13:36.57,0:13:39.03,Default,,0,0,0,,[FERN] I suspect you know\Nexactly where she's headed.
 Dialogue: 0,0:13:39.28,0:13:40.28,Default,,0,0,0,,Explain.
-Dialogue: 0,0:13:41.15,0:13:42.78,Default,,0,0,0,,[LUGNER]\NYou're wasting your time.
+Dialogue: 0,0:13:41.15,0:13:42.78,Default,,0,0,0,,[LÜGNER]\NYou're wasting your time.
 Dialogue: 0,0:13:43.78,0:13:44.90,Default,,0,0,0,,You were lying when you said
 Dialogue: 0,0:13:44.99,0:13:47.00,Default,,0,0,0,,your intent wasn't for me\Nto suffer.
 Dialogue: 0,0:13:47.62,0:13:49.62,Default,,0,0,0,,[FERN] That attack\Nwas never meant to kill me.
@@ -276,7 +276,7 @@ Dialogue: 0,0:14:02.26,0:14:03.38,Default,,0,0,0,,[FERN]\NUnderestimating me
 Dialogue: 0,0:14:03.47,0:14:05.39,Default,,0,0,0,,has put you in\Na dire predicament.
 Dialogue: 0,0:14:07.81,0:14:09.06,Default,,0,0,0,,From this distance,
 Dialogue: 0,0:14:09.14,0:14:11.60,Default,,0,0,0,,I can blast a hole\Nclean through your heart.
-Dialogue: 0,0:14:12.89,0:14:14.02,Default,,0,0,0,,[LUGNER]\NTry it.
+Dialogue: 0,0:14:12.89,0:14:14.02,Default,,0,0,0,,[LÜGNER]\NTry it.
 Dialogue: 0,0:14:14.48,0:14:16.90,Default,,0,0,0,,Your head will fly\Nbefore you get the chance.
 Dialogue: 0,0:14:25.15,0:14:26.66,Default,,0,0,0,,[FERN]\NMistress Frieren?
 Dialogue: 0,0:14:27.45,0:14:29.62,Default,,0,0,0,,Am I of any real use to you?
@@ -294,42 +294,42 @@ Dialogue: 0,0:14:57.69,0:15:00.48,Default,,0,0,0,,Yes. You force me\Nto fight th
 Dialogue: 0,0:15:00.57,0:15:02.03,Default,,0,0,0,,[FRIEREN]\NApologies.
 Dialogue: 0,0:15:02.73,0:15:05.70,Default,,0,0,0,,Battles end sooner\Nwhenever you fight by my side.
 Dialogue: 0,0:15:06.37,0:15:08.99,Default,,0,0,0,,You fire off spells\Nmuch faster than I do.
-Dialogue: 0,0:15:11.54,0:15:12.83,Default,,0,0,0,,[LUGNER]\NHuman...
+Dialogue: 0,0:15:11.54,0:15:12.83,Default,,0,0,0,,[LÜGNER]\NHuman...
 Dialogue: 0,0:15:13.45,0:15:15.59,Default,,0,0,0,,I've dedicated\Nthe majority of my life
 Dialogue: 0,0:15:15.67,0:15:17.42,Default,,0,0,0,,to the pursuit of magic.
 Dialogue: 0,0:15:18.17,0:15:19.38,Default,,0,0,0,,As have I.
 Dialogue: 0,0:15:28.85,0:15:29.97,Default,,0,0,0,,♪
-Dialogue: 0,0:15:34.10,0:15:36.23,Italics,,0,0,0,,[LUGNER] How is she responding\Nso quickly?
+Dialogue: 0,0:15:34.10,0:15:36.23,Italics,,0,0,0,,[LÜGNER] How is she responding\Nso quickly?
 Dialogue: 0,0:15:37.11,0:15:39.11,Italics,,0,0,0,,If I hadn't acted reflexively,
 Dialogue: 0,0:15:39.73,0:15:41.61,Italics,,0,0,0,,that would've pierced my heart.
 Dialogue: 0,0:15:42.11,0:15:43.65,Italics,,0,0,0,,You blocked my attack,
 Dialogue: 0,0:15:44.07,0:15:46.58,Default,,0,0,0,,which must mean your heart\Nis your weak point.
-Dialogue: 0,0:15:47.37,0:15:48.70,Italics,,0,0,0,,[LUGNER]\NThis girl.
+Dialogue: 0,0:15:47.37,0:15:48.70,Italics,,0,0,0,,[LÜGNER]\NThis girl.
 Dialogue: 0,0:15:50.16,0:15:51.37,Default,,0,0,0,,Interesting.
 Dialogue: 0,0:15:51.78,0:15:54.70,Default,,0,0,0,,You weren't lying about\Ndedicating your life to magic.
 Dialogue: 0,0:15:56.42,0:15:59.50,Default,,0,0,0,,That's good. I won't need\Nto hold back in this fight.
-Dialogue: 0,0:16:00.29,0:16:01.46,Default,,0,0,0,,[LUGNER] Bluterei!
+Dialogue: 0,0:16:00.29,0:16:01.46,Default,,0,0,0,,[LÜGNER] Bluterei!
 Dialogue: 0,0:16:04.75,0:16:06.76,Default,,0,0,0,,It sounds like\Nthey've gotten started.
 Dialogue: 0,0:16:08.47,0:16:10.51,Default,,0,0,0,,That makes me\Na little bit jealous.
 Dialogue: 0,0:16:10.85,0:16:12.55,Default,,0,0,0,,[LINIE]\NOur fight is all but over.
 Dialogue: 0,0:16:14.22,0:16:16.15,Default,,0,0,0,,Perhaps\NI'll observe their battle
 Dialogue: 0,0:16:16.36,0:16:17.44,Default,,0,0,0,,from afar.
-Dialogue: 0,0:16:18.19,0:16:20.65,Default,,0,0,0,,Lord Lugner gets cross\Nwhen I interfere.
+Dialogue: 0,0:16:18.19,0:16:20.65,Default,,0,0,0,,Lord Lügner gets cross\Nwhen I interfere.
 Dialogue: 0,0:16:23.15,0:16:24.44,Default,,0,0,0,,[Stark groans]
 Dialogue: 0,0:16:25.87,0:16:26.87,Default,,0,0,0,,[LINIE]\NYou're up?
 Dialogue: 0,0:16:26.95,0:16:29.41,Default,,0,0,0,,But we're not finished yet!
 Dialogue: 0,0:16:30.91,0:16:32.24,Default,,0,0,0,,[LINIE]\NAren't you tough?
 Dialogue: 0,0:16:32.32,0:16:34.45,Default,,0,0,0,,Perhaps this will be amusing.
-Dialogue: 0,0:16:38.13,0:16:40.63,Italics,,0,0,0,,[LUGNER] My mana, technique,\Nand control
+Dialogue: 0,0:16:38.13,0:16:40.63,Italics,,0,0,0,,[LÜGNER] My mana, technique,\Nand control
 Dialogue: 0,0:16:40.71,0:16:43.08,Italics,,0,0,0,,are all far superior to hers.
 Dialogue: 0,0:16:45.08,0:16:47.43,Default,,0,0,0,,♪
-Dialogue: 0,0:17:03.56,0:17:06.11,Italics,,0,0,0,,[LUGNER] She can't compare\Nto me in any way.
+Dialogue: 0,0:17:03.56,0:17:06.11,Italics,,0,0,0,,[LÜGNER] She can't compare\Nto me in any way.
 Dialogue: 0,0:17:06.24,0:17:08.82,Italics,,0,0,0,,The very thought of it\Nis ridiculous.
 Dialogue: 0,0:17:09.45,0:17:12.24,Italics,,0,0,0,,However, she is fast.
 Dialogue: 0,0:17:13.41,0:17:14.61,Italics,,0,0,0,,I'm being overwhelmed
 Dialogue: 0,0:17:14.70,0:17:17.29,Italics,,0,0,0,,by the sheer number\Nof her attacks.
 Dialogue: 0,0:17:18.17,0:17:19.54,Default,,0,0,0,,♪
-Dialogue: 0,0:17:22.75,0:17:24.25,Italics,,0,0,0,,[LUGNER]\NDamn you, Frieren.
+Dialogue: 0,0:17:22.75,0:17:24.25,Italics,,0,0,0,,[LÜGNER]\NDamn you, Frieren.
 Dialogue: 0,0:17:24.79,0:17:27.63,Italics,,0,0,0,,How did you train this girl\Nto put up such a fight?
 Dialogue: 0,0:17:31.68,0:17:32.88,Italics,,0,0,0,,It's no matter.
 Dialogue: 0,0:17:33.09,0:17:35.13,Italics,,0,0,0,,She'll exhaust her mana soon.
@@ -365,7 +365,7 @@ Dialogue: 0,0:19:47.32,0:19:49.61,Italics,,0,0,0,,I can't win against her.
 Dialogue: 0,0:19:50.02,0:19:51.23,Default,,0,0,0,,[Stark groans]
 Dialogue: 0,0:19:58.33,0:19:59.95,Default,,0,0,0,,There. He's finally fallen.
 Dialogue: 0,0:20:00.45,0:20:01.70,Default,,0,0,0,,I should go back.
-Dialogue: 0,0:20:02.16,0:20:04.16,Default,,0,0,0,,I don't want to upset\NLord Lugner.
+Dialogue: 0,0:20:02.16,0:20:04.16,Default,,0,0,0,,I don't want to upset\NLord Lügner.
 Dialogue: 0,0:20:07.75,0:20:08.88,Italics,,0,0,0,,[STARK]\NIs that it?
 Dialogue: 0,0:20:10.29,0:20:12.09,Italics,,0,0,0,,Is this how it ends?
 Dialogue: 0,0:20:16.26,0:20:17.89,Default,,0,0,0,,[EISEN]\NStand up, Stark.
@@ -412,7 +412,7 @@ Dialogue: 0,0:22:21.76,0:22:23.30,Default,,0,0,0,,[STARK]\NLightning Strike!
 Dialogue: 0,0:22:23.59,0:22:24.63,Default,,0,0,0,,♪
 Dialogue: 0,0:22:35.14,0:22:37.19,Default,,0,0,0,,Linie! Shit.
 Dialogue: 0,0:22:37.32,0:22:38.44,Default,,0,0,0,,Zoltraak.
-Dialogue: 0,0:22:43.57,0:22:46.91,Italics,,0,0,0,,[LUGNER]\NMagic designed to kill demons.
+Dialogue: 0,0:22:43.57,0:22:46.91,Italics,,0,0,0,,[LÜGNER]\NMagic designed to kill demons.
 Dialogue: 0,0:24:20.38,0:24:23.42,Default,,0,0,0,,[HEITER] It appears she has\Nroughly one-fifth of my mana.
 Dialogue: 0,0:24:23.50,0:24:25.88,Default,,0,0,0,,[AURA] You are absolutely\Nno match for me.
 Dialogue: 0,0:24:26.35,0:24:27.35,Default,,0,0,0,,[FRIEREN] The truth is,

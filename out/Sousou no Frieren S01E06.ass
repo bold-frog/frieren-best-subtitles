@@ -499,7 +499,7 @@ Dialogue: 0,0:22:48.29,0:22:49.25,Default,,0,0,0,,[FERN]\NIndeed.
 Dialogue: 0,0:24:20.46,0:24:22.00,Default,,0,0,0,,-[DEMON CHILD 6A] It hurts.\N-[GRANAT] He died in battle
 Dialogue: 0,0:24:22.09,0:24:24.17,Default,,0,0,0,,-against Aura ten years ago.\N-The Liberation Festival
 Dialogue: 0,0:24:24.25,0:24:25.46,Default,,0,0,0,,-is tonight.\N-[STARK] Why not speak to them?
-Dialogue: 0,0:24:25.54,0:24:26.93,Default,,0,0,0,,-[LUGNER] I'm curious about\Nthat mage. -[FERN] What a pain
+Dialogue: 0,0:24:25.54,0:24:26.93,Default,,0,0,0,,-[LÜGNER] I'm curious about\Nthat mage. -[FERN] What a pain
 Dialogue: 0,0:24:27.01,0:24:29.51,Default,,0,0,0,,-in the rear. -[EISEN]\NIt's like a fairy tale.
 Dialogue: 0,0:01:43.00,0:01:46.00,Signs,,0,0,0,,{\an7\pos(0,0)\c&H000000&\p1}m -2 -2 l 1922 -2 1922 1082 -2 1082
 Dialogue: 3,0:01:43.00,0:01:46.00,Signs,,0,0,0,,{\fnHiroshige\an6\fs55\blur0.7\c&HF8F8F8&\pos(1682,900)}Episode 6: Champion of the Village

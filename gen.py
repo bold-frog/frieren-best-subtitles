@@ -59,7 +59,13 @@ def generate(episode):
                         .replace('AuBerst', 'Äußerst') \
                         .replace('Auberst', 'Äußerst') \
                         .replace('Ubel', 'Übel') \
-                        .replace('UBEL', 'ÜBEL')
+                        .replace('UBEL', 'ÜBEL') \
+                        .replace('Lugner', 'Lügner') \
+                        .replace('LUGNER', 'LÜGNER') \
+                        .replace('Tur.', 'Tür.') \
+                        .replace('Dunste', 'Dünste') \
+                        .replace('DUNSTE', 'DÜNSTE') \
+                        .replace('Bose', 'Böse')
                     out.write(phrase + '\n')
                 insert = False
             if line == '[Events]':

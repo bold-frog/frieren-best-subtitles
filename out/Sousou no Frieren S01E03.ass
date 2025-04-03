@@ -73,7 +73,7 @@ Dialogue: 0,0:03:27.38,0:03:28.34,Italics,,0,0,0,,Huh?!
 Dialogue: 0,0:03:28.42,0:03:29.75,Italics,,0,0,0,,What's that face?
 Dialogue: 0,0:03:29.92,0:03:31.63,Italics,,0,0,0,,In all these years,\NI've never seen
 Dialogue: 0,0:03:31.71,0:03:34.13,Italics,,0,0,0,,Mistress Frieren look\Nso troubled before.
-Dialogue: 0,0:03:34.76,0:03:35.97,Italics,,0,0,0,,[water gushing]
+Dialogue: 0,0:03:34.76,0:03:35.97,Default,,0,0,0,,[water gushing]
 Dialogue: 0,0:03:39.05,0:03:40.05,Default,,0,0,0,,[gasps]
 Dialogue: 0,0:03:41.18,0:03:42.18,Default,,0,0,0,,[mewing]
 Dialogue: 0,0:03:46.40,0:03:47.69,Default,,0,0,0,,[slight chuckle]

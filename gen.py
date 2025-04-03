@@ -50,7 +50,7 @@ def generate(episode):
                     fields = phrase.split(',')
                     begin = parsetime(fields[1])
                     end = parsetime(fields[2])
-                    if fields[9] != '♪':
+                    if fields[9] != '♪' and not (fields[9][0] == '[' and fields[9][-1] == ']'):
                         for it in italics:
                             if it[0] <= begin <= it[1] or it[0] <= end <= it[1] or begin <= it[0] <= end:
                                 phrase = phrase.replace(',Default,', ',Italics,', 1)

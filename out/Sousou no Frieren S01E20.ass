@@ -70,7 +70,7 @@ Dialogue: 0,0:01:14.12,0:01:16.37,Default,,0,0,0,,[crackling]
 Dialogue: 0,0:01:16.49,0:01:18.04,Italics,,0,0,0,,[EHRE]\NA saturation attack?
 Dialogue: 0,0:01:20.21,0:01:21.21,Default,,0,0,0,,[gasps]
 Dialogue: 0,0:01:21.75,0:01:24.63,Italics,,0,0,0,,How can she control so many\Noffensive spells at once?
-Dialogue: 0,0:01:24.75,0:01:27.30,Italics,,0,0,0,,[crackling]
+Dialogue: 0,0:01:24.75,0:01:27.30,Default,,0,0,0,,[crackling]
 Dialogue: 0,0:01:27.42,0:01:29.01,Default,,0,0,0,,Where is your dignity, mage?
 Dialogue: 0,0:01:29.13,0:01:32.30,Default,,0,0,0,,Resorting to brute force like\Nthis is downright barbaric!
 Dialogue: 0,0:01:34.39,0:01:35.39,Default,,0,0,0,,I can't...

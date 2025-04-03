@@ -205,7 +205,7 @@ Dialogue: 0,0:08:58.58,0:08:59.62,Italics,,0,0,0,,-[thuds]\N-[SEIN] Damn it.
 Dialogue: 0,0:08:59.71,0:09:01.13,Italics,,0,0,0,,This can only get\Nworse from here.
 Dialogue: 0,0:09:01.46,0:09:03.21,Italics,,0,0,0,,Should I heed the elf's orders\Nand wake her?
 Dialogue: 0,0:09:03.75,0:09:05.75,Italics,,0,0,0,,She's the mage\Nfrom the party of heroes.
-Dialogue: 0,0:09:06.05,0:09:07.67,Default,,0,0,0,,If a spell of hers\Nwere deflected,
+Dialogue: 0,0:09:06.05,0:09:07.67,Italics,,0,0,0,,If a spell of hers\Nwere deflected,
 Dialogue: 0,0:09:07.80,0:09:09.51,Italics,,0,0,0,,it would destroy\Nnot only the forest,
 Dialogue: 0,0:09:09.63,0:09:11.34,Italics,,0,0,0,,but the entire village with it!
 Dialogue: 0,0:09:12.55,0:09:13.43,Default,,0,0,0,,[thuds]

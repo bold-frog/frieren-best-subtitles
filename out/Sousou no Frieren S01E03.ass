@@ -68,7 +68,7 @@ Dialogue: 0,0:03:09.57,0:03:11.90,Default,,0,0,0,,[FERN] You should stop going\N
 Dialogue: 0,0:03:12.36,0:03:13.98,Default,,0,0,0,,-Really.\N-[groans]
 Dialogue: 0,0:03:15.58,0:03:18.53,Italics,,0,0,0,,I never thought she would\Nbe interested in fashion.
 Dialogue: 0,0:03:18.78,0:03:22.78,Default,,0,0,0,,♪
-Dialogue: 0,0:03:23.66,0:03:26.00,Default,,0,0,0,,She seemed so conflicted.
+Dialogue: 0,0:03:23.66,0:03:26.00,Italics,,0,0,0,,She seemed so conflicted.
 Dialogue: 0,0:03:27.38,0:03:28.34,Italics,,0,0,0,,Huh?!
 Dialogue: 0,0:03:28.42,0:03:29.75,Italics,,0,0,0,,What's that face?
 Dialogue: 0,0:03:29.92,0:03:31.63,Italics,,0,0,0,,In all these years,\NI've never seen
@@ -124,7 +124,7 @@ Dialogue: 0,0:05:47.48,0:05:49.18,Italics,,0,0,0,,[FERN]\NHuh? That's strange.
 Dialogue: 0,0:05:49.27,0:05:51.35,Italics,,0,0,0,,She's heading in the\Ndirection of our inn.
 Dialogue: 0,0:05:51.43,0:05:53.27,Italics,,0,0,0,,Did she give up on dessert?
 Dialogue: 0,0:05:53.85,0:05:54.85,Default,,0,0,0,,[gasps]
-Dialogue: 0,0:05:54.99,0:05:57.19,Default,,0,0,0,,I'm not even close\Nto done shopping.
+Dialogue: 0,0:05:54.99,0:05:57.19,Italics,,0,0,0,,I'm not even close\Nto done shopping.
 Dialogue: 0,0:06:00.94,0:06:01.99,Default,,0,0,0,,You're late.
 Dialogue: 0,0:06:02.44,0:06:03.65,Default,,0,0,0,,I'm sorry.
 Dialogue: 0,0:06:04.24,0:06:05.45,Default,,0,0,0,,No matter.

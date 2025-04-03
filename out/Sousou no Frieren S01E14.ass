@@ -382,7 +382,7 @@ Dialogue: 0,0:16:57.10,0:16:58.48,Italics,,0,0,0,,What about this one?
 Dialogue: 0,0:16:59.27,0:17:02.23,Default,,0,0,0,,Three hours of trying\Nto gauge her reactions.
 Dialogue: 0,0:17:02.60,0:17:04.69,Default,,0,0,0,,I felt like I was dying inside.
 Dialogue: 0,0:17:05.02,0:17:06.16,Default,,0,0,0,,[SEIN] You poor soul.
-Dialogue: 0,0:17:06.95,0:17:09.07,Default,,0,0,0,,[FERN] I can hear everything\Nthey're saying.
+Dialogue: 0,0:17:06.95,0:17:09.07,Italics,,0,0,0,,[FERN] I can hear everything\Nthey're saying.
 Dialogue: 0,0:17:09.53,0:17:10.74,Default,,0,0,0,,-[STARK] Oh, well.\N-Huh.
 Dialogue: 0,0:17:11.45,0:17:13.86,Default,,0,0,0,,It was all worth it,\Nsince she likes it so much.
 Dialogue: 0,0:17:16.67,0:17:17.67,Default,,0,0,0,,[chuckles]

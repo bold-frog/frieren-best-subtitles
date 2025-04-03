@@ -64,7 +64,7 @@ Dialogue: 0,0:01:11.99,0:01:12.95,Default,,0,0,0,,Astounded.
 Dialogue: 0,0:01:14.71,0:01:16.96,Default,,0,0,0,,This is deserving of a reward.
 Dialogue: 0,0:01:19.54,0:01:20.54,Default,,0,0,0,,[smiles]
 Dialogue: 0,0:01:22.16,0:01:23.50,Default,,0,0,0,,[blowing]
-Dialogue: 0,0:01:24.58,0:01:26.26,Default,,0,0,0,,[STARK]\NWhat is happening?
+Dialogue: 0,0:01:24.58,0:01:26.26,Italics,,0,0,0,,[STARK]\NWhat is happening?
 Dialogue: 0,0:02:59.64,0:03:00.60,Default,,0,0,0,,[thunks]
 Dialogue: 0,0:03:02.06,0:03:03.06,Default,,0,0,0,,[sighs]
 Dialogue: 0,0:03:04.26,0:03:07.02,Default,,0,0,0,,♪

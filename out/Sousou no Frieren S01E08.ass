@@ -415,7 +415,7 @@ Dialogue: 0,0:18:54.34,0:18:56.52,Default,,0,0,0,,Step aside while you still can
 Dialogue: 0,0:18:57.14,0:18:58.97,Default,,0,0,0,,Get in my way\Nand I'll kill you.
 Dialogue: 0,0:18:59.77,0:19:00.77,Default,,0,0,0,,[clasps]
 Dialogue: 0,0:19:03.31,0:19:04.93,Default,,0,0,0,,I'd like to see you try!
-Dialogue: 0,0:19:08.73,0:19:09.73,Default,,0,0,0,,My!
+Dialogue: 0,0:19:08.73,0:19:09.73,Italics,,0,0,0,,My!
 Dialogue: 0,0:19:11.69,0:19:14.28,Default,,0,0,0,,Fast. For a human, that is.
 Dialogue: 0,0:19:15.48,0:19:16.49,Default,,0,0,0,,Huh!
 Dialogue: 0,0:19:17.37,0:19:19.37,Default,,0,0,0,,♪

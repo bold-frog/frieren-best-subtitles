@@ -305,7 +305,7 @@ Dialogue: 0,0:14:06.35,0:14:07.60,Default,,0,0,0,,We have no other choice.
 Dialogue: 0,0:14:08.77,0:14:10.35,Default,,0,0,0,,Run along.\NYou're free to roam.
 Dialogue: 0,0:14:10.77,0:14:12.27,Default,,0,0,0,,I'll secure us a room\Nat the inn.
 Dialogue: 0,0:14:15.31,0:14:16.74,Default,,0,0,0,,Wanna get something to eat?
-Dialogue: 0,0:14:18.28,0:14:20.28,Default,,0,0,0,,[STARK]\NLoud and clear.
+Dialogue: 0,0:14:18.28,0:14:20.28,Italics,,0,0,0,,[STARK]\NLoud and clear.
 Dialogue: 0,0:14:21.61,0:14:22.61,Italics,,0,0,0,,Scary.
 Dialogue: 0,0:14:24.15,0:14:25.83,Default,,0,0,0,,[indistinct chatter]
 Dialogue: 0,0:14:28.41,0:14:29.58,Default,,0,0,0,,[MALE VILLAGER 6A]\NRumor is they shut down

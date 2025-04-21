@@ -69,13 +69,43 @@ def generate(episode):
                     if episode == 3:
                         phrase = phrase \
                             .replace('She seemed so conflicted.', 'She seems so conflicted.')
+                    elif episode == 4:
+                        if phrase.endswith(',This is going to be\\Nan uphill battle.'):
+                            phrase = phrase.replace(',Default,', ',Italics,', 1)
+                    elif episode == 5:
+                        if phrase.endswith(',-[FERN] It knows.\\N-The path of the mage called,'):
+                            phrase = phrase.replace(',Italics,', ',Default,', 1).replace('-[FERN] It knows.', '{\\i1}-[FERN] It knows.{\\i0}')
+                        elif phrase.endswith(',your love for magic\\Nhas been clear.'):
+                            phrase = phrase.replace(',Italics,', ',Default,', 1)
+                        elif phrase.endswith(',-The first time I saw...\\N-[FERN] It knows all of them,'):
+                            phrase = phrase.replace(',Italics,', ',Default,', 1).replace('-[FERN] It knows all of them,', '{\\i1}-[FERN] It knows all of them,{\\i0}')
+                    elif episode == 6:
+                        if phrase.endswith(',[STARK]\\NLoud and clear.'):
+                            phrase = phrase.replace(',Default,', ',Italics,', 1)
                     elif episode == 14:
                         phrase = phrase \
                             .replace('[Fern gasps', '[Fern gasps]')
+                    elif episode == 15:
+                        if phrase.endswith(',[FRIEREN]\\NMy apologies.'):
+                            phrase = phrase.replace(',Italics,', ',Default,', 1)
                     elif episode == 16:
                         phrase = phrase \
                             .replace('[MALE VILLAGER 16C]\\NThat\'s a wild question.', '[STARK]\\NThat\'s a wild question.') \
                             .replace('Oh! You mean\\NMister Gorilla Warrior.', '[MALE VILLAGER 16C]\\NOh! You mean Mister Gorilla Warrior.')
+                    elif episode == 21:
+                        if phrase.endswith(',Quickly.'):
+                            phrase = phrase.replace(',Default,', ',Italics,', 1)
+                    elif episode == 22:
+                        if phrase.endswith(',[FRIEREN] Glad to see\\Nyou\'re feeling better.'):
+                            phrase = phrase.replace(',Italics,', ',Default,', 1)
+                    elif episode == 27:
+                        if phrase.endswith(',[FRIEREN] Fern.'):
+                            phrase = phrase.replace(',Italics,', ',Default,', 1)
+                    elif episode == 28:
+                        if phrase.endswith(',[FERN] Goodness,\\NMistress Frieren,'):
+                            phrase = phrase.replace(',Italics,', ',Default,', 1)
+                        elif phrase.endswith(',don\'t look so excited.'):
+                            phrase = phrase.replace(',Italics,', ',Default,', 1)
                     out.write(phrase + '\n')
                 insert = False
             if line == '[Events]':

@@ -66,7 +66,7 @@ Dialogue: 0,0:02:47.84,0:02:49.00,Default,,0,0,0,,[FRIEREN]\NIs that right?
 Dialogue: 0,0:02:50.13,0:02:52.13,Default,,0,0,0,,Come on.\NDon't forget about Frieren.
 Dialogue: 0,0:02:52.34,0:02:55.01,Default,,0,0,0,,She's more of an elderly child\Nthan a lady.
 Dialogue: 0,0:02:55.22,0:02:56.64,Italics,,0,0,0,,[FERN]\NHe looks so distraught.
-Dialogue: 0,0:02:56.76,0:02:58.01,Italics,,0,0,0,,[FRIEREN]\NMy apologies.
+Dialogue: 0,0:02:56.76,0:02:58.01,Default,,0,0,0,,[FRIEREN]\NMy apologies.
 Dialogue: 0,0:02:58.10,0:02:59.81,Default,,0,0,0,,Uh...hey!
 Dialogue: 0,0:03:00.10,0:03:02.31,Default,,0,0,0,,You can finally see\Nthe next village.
 Dialogue: 0,0:03:03.94,0:03:06.10,Default,,0,0,0,,[wind whooshing]

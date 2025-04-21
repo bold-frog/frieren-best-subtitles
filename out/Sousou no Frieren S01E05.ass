@@ -207,12 +207,12 @@ Dialogue: 0,0:09:46.01,0:09:47.05,Default,,0,0,0,,Huh?
 Dialogue: 0,0:09:47.63,0:09:49.88,Default,,0,0,0,,I decided to come back\Nand say hello.
 Dialogue: 0,0:09:50.13,0:09:53.38,Default,,0,0,0,,A girl as good as you are\Ndeserves a friendly haunting.
 Dialogue: 0,0:09:53.59,0:09:55.05,Default,,0,0,0,,[gasps]\NHuh?
-Dialogue: 0,0:09:57.14,0:09:59.52,Italics,,0,0,0,,-[FERN] It knows.\N-The path of the mage called,
+Dialogue: 0,0:09:57.14,0:09:59.52,Default,,0,0,0,,{\i1}-[FERN] It knows.{\i0}\N-The path of the mage called,
 Dialogue: 0,0:09:59.60,0:10:01.18,Default,,0,0,0,,and you wisely followed.
 Dialogue: 0,0:10:01.77,0:10:02.93,Default,,0,0,0,,Since you were a child,
-Dialogue: 0,0:10:03.02,0:10:04.06,Italics,,0,0,0,,your love for magic\Nhas been clear.
+Dialogue: 0,0:10:03.02,0:10:04.06,Default,,0,0,0,,your love for magic\Nhas been clear.
 Dialogue: 0,0:10:04.14,0:10:05.61,Italics,,0,0,0,,[FERN]\NMy cherished memories.
-Dialogue: 0,0:10:05.78,0:10:08.03,Italics,,0,0,0,,-The first time I saw...\N-[FERN] It knows all of them,
+Dialogue: 0,0:10:05.78,0:10:08.03,Default,,0,0,0,,-The first time I saw...\N{\i1}-[FERN] It knows all of them,{\i0}
 Dialogue: 0,0:10:08.82,0:10:10.82,Italics,,0,0,0,,and it's using them against me.
 Dialogue: 0,0:10:11.65,0:10:12.65,Italics,,0,0,0,,How cruel.
 Dialogue: 0,0:10:15.29,0:10:16.29,Default,,0,0,0,,Need help?

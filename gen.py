@@ -69,6 +69,14 @@ def generate(episode):
                     if episode == 3:
                         phrase = phrase \
                             .replace('She seemed so conflicted.', 'She seems so conflicted.')
+                        if phrase.endswith(',-So they\'re adventurers, then.\\N-After a long day\'s work,'):
+                            phrase = phrase.replace(',Default,', ',Italics,', 1).replace(',-So they\'re adventurers, then.\\N-After a long day\'s work,', ',So they\'re adventurers, then.')
+                        elif phrase.endswith(',Still, I\'d say "rugged"'):
+                            phrase = phrase.replace(',Default,', ',Italics,', 1)
+                        elif phrase.endswith(',is an understatement.'):
+                            phrase = phrase.replace(',Default,', ',Italics,', 1)
+                        elif phrase.endswith(',-[FERN]They\'re terrifying.\\N-Gotta live a little, right?'):
+                            phrase = phrase.replace(',Default,', ',Italics,', 1).replace(',-[FERN]They\'re terrifying.\\N-Gotta live a little, right?', ',[FERN]They\'re terrifying.')
                     elif episode == 4:
                         if phrase.endswith(',This is going to be\\Nan uphill battle.'):
                             phrase = phrase.replace(',Default,', ',Italics,', 1)
@@ -107,6 +115,11 @@ def generate(episode):
                         elif phrase.endswith(',don\'t look so excited.'):
                             phrase = phrase.replace(',Italics,', ',Default,', 1)
                     out.write(phrase + '\n')
+                if episode == 3:
+                    out.write('Dialogue: 0,0:05:28.00,0:05:29.79,Top-Alt,Sweet tooth,0,0,0,,After a long day\'s work,\n')
+                    out.write('Dialogue: 0,0:05:29.87,0:05:31.46,Top-Alt,Sweet tooth,0,0,0,,there\'s no better reward\\Nthan a plate piled\n')
+                    out.write('Dialogue: 0,0:05:31.54,0:05:32.79,Top-Alt,Sweet tooth,0,0,0,,high with ... confections.\n')
+                    out.write('Dialogue: 0,0:05:33.25,0:05:35.01,Top-Alt,Sweet tooth,0,0,0,,We\'ll tell you the route, alright?\n')
                 insert = False
             if line == '[Events]':
                 insert = True

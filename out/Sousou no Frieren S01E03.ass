@@ -113,10 +113,10 @@ Dialogue: 0,0:05:18.32,0:05:20.40,Italics,,0,0,0,,[FERN]\NI was not expecting th
 Dialogue: 0,0:05:21.15,0:05:23.65,Default,,0,0,0,,I would've thought you\Nlot too rugged for sweets.
 Dialogue: 0,0:05:23.82,0:05:25.79,Default,,0,0,0,,A bit of sugar\Nfills us with the energy
 Dialogue: 0,0:05:25.87,0:05:27.75,Default,,0,0,0,,we need to adventure on.
-Dialogue: 0,0:05:28.00,0:05:29.79,Default,,0,0,0,,-So they're adventurers, then.\N-After a long day's work,
-Dialogue: 0,0:05:29.87,0:05:31.46,Default,,0,0,0,,Still, I'd say "rugged"
-Dialogue: 0,0:05:31.54,0:05:32.79,Default,,0,0,0,,is an understatement.
-Dialogue: 0,0:05:33.25,0:05:35.01,Default,,0,0,0,,-[FERN]They're terrifying.\N-Gotta live a little, right?
+Dialogue: 0,0:05:28.00,0:05:29.79,Italics,,0,0,0,,So they're adventurers, then.
+Dialogue: 0,0:05:29.87,0:05:31.46,Italics,,0,0,0,,Still, I'd say "rugged"
+Dialogue: 0,0:05:31.54,0:05:32.79,Italics,,0,0,0,,is an understatement.
+Dialogue: 0,0:05:33.25,0:05:35.01,Italics,,0,0,0,,[FERN]They're terrifying.
 Dialogue: 0,0:05:35.09,0:05:36.09,Default,,0,0,0,,[chuckles]
 Dialogue: 0,0:05:36.17,0:05:37.51,Default,,0,0,0,,Hope you enjoy!
 Dialogue: 0,0:05:41.38,0:05:43.55,Italics,,0,0,0,,She must be on her way\Nto the restaurant.
@@ -465,6 +465,10 @@ Dialogue: 0,0:24:23.46,0:24:24.79,Default,,0,0,0,,[HEITER] It's no time\Nfor suc
 Dialogue: 0,0:24:24.88,0:24:26.14,Default,,0,0,0,,[EISEN]\NIt happened a long time ago.
 Dialogue: 0,0:24:26.22,0:24:28.05,Default,,0,0,0,,[FLAMME]\NI now know it as Aureole,
 Dialogue: 0,0:24:28.30,0:24:30.01,Default,,0,0,0,,the land where souls rest.
+Dialogue: 0,0:05:28.00,0:05:29.79,Top-Alt,Sweet tooth,0,0,0,,After a long day's work,
+Dialogue: 0,0:05:29.87,0:05:31.46,Top-Alt,Sweet tooth,0,0,0,,there's no better reward\Nthan a plate piled
+Dialogue: 0,0:05:31.54,0:05:32.79,Top-Alt,Sweet tooth,0,0,0,,high with ... confections.
+Dialogue: 0,0:05:33.25,0:05:35.01,Top-Alt,Sweet tooth,0,0,0,,We'll tell you the route, alright?
 Dialogue: 1,0:01:29.99,0:01:35.99,Signs,,0,0,0,,{\an6\fnHiroshige\fs40\pos(1527,142)\blur0.7\c&HFFFFFF&\b0}27 years after the death
 Dialogue: 0,0:01:29.99,0:01:35.99,Signs,,0,0,0,,{\an6\fnHiroshige\fs40\pos(1527,141)\blur0.7\c&HFFF031&\1a&H7C&\b0}27 years after the death
 Dialogue: 0,0:01:29.99,0:01:35.99,Signs,,0,0,0,,{\an6\fnHiroshige\fs40\pos(1527,143)\blur0.7\c&H7A51FF&\1a&H7C&\b0}27 years after the death

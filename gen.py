@@ -66,6 +66,16 @@ def generate(episode):
                         .replace('Dunste', 'Dünste') \
                         .replace('DUNSTE', 'DÜNSTE') \
                         .replace('Bose', 'Böse')
+                    if episode == 3:
+                        phrase = phrase \
+                            .replace('She seemed so conflicted.', 'She seems so conflicted.')
+                    elif episode == 14:
+                        phrase = phrase \
+                            .replace('[Fern gasps', '[Fern gasps]')
+                    elif episode == 16:
+                        phrase = phrase \
+                            .replace('[MALE VILLAGER 16C]\\NThat\'s a wild question.', '[STARK]\\NThat\'s a wild question.') \
+                            .replace('Oh! You mean\\NMister Gorilla Warrior.', '[MALE VILLAGER 16C]\\NOh! You mean Mister Gorilla Warrior.')
                     out.write(phrase + '\n')
                 insert = False
             if line == '[Events]':
